@@ -1,0 +1,4040 @@
+[
+  {
+    "endTime": "03:00 PM",
+    "kilometers": 431.62,
+    "remarks": "વાયા ગોધરા લુનાવાડા",
+    "route": "મોડાસા સોનગઢ",
+    "scheduleNo": 13,
+    "startTime": "05:03 AM",
+    "type": "સુપર"
+  },
+  {
+    "endTime": "03:01 PM",
+    "kilometers": 1.5,
+    "remarks": "એમ ટી",
+    "route": "સ્ટેન્ડ ડેપો",
+    "scheduleNo": 13,
+    "startTime": "03:05 PM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "06:05 PM",
+    "kilometers": 1.5,
+    "route": "ડેપો સ્ટેન્ડ",
+    "scheduleNo": 14,
+    "startTime": "06:45 PM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "03:02 AM",
+    "kilometers": 379.72,
+    "remarks": "સીસી",
+    "route": "સોનગઢ ગાંધીનગર",
+    "scheduleNo": 14,
+    "startTime": "07:00 PM",
+    "type": "સુપર"
+  },
+  {
+    "endTime": "02:01 PM",
+    "kilometers": 379.72,
+    "route": "ગાંધીનગર સોનગઢ",
+    "scheduleNo": 14,
+    "startTime": "06:00 AM",
+    "type": "સુપર"
+  },
+  {
+    "endTime": "02:02 PM",
+    "kilometers": 1.5,
+    "remarks": "એમ ટી",
+    "route": "સ્ટેન્ડ ડેપો",
+    "scheduleNo": 14,
+    "startTime": "02:15 PM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "07:15 AM",
+    "kilometers": 1.5,
+    "route": "ડેપો સ્ટેન્ડ",
+    "scheduleNo": 15,
+    "startTime": "07:01 AM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "12:25 PM",
+    "kilometers": 225.05,
+    "route": "સોનગઢ વડોદરા",
+    "scheduleNo": 15,
+    "startTime": "07:02 AM",
+    "type": "સુપર"
+  },
+  {
+    "endTime": "06:45 PM",
+    "kilometers": 225.05,
+    "route": "વડોદરા સોનગઢ",
+    "scheduleNo": 15,
+    "startTime": "01:03 PM",
+    "type": "સુપર"
+  },
+  {
+    "endTime": "06:55 PM",
+    "kilometers": 1.5,
+    "remarks": "સી.સી.એમ.ટી.",
+    "route": "સ્ટેન્ડ ડેપો",
+    "scheduleNo": 15,
+    "startTime": "06:05 PM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "10:55 AM",
+    "kilometers": 1.5,
+    "route": "ડેપો સ્ટેન્ડ",
+    "scheduleNo": 16,
+    "startTime": "10:05 AM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "09:02 PM",
+    "kilometers": 403.31,
+    "remarks": "નાઇટ આઉટ",
+    "route": "સોનગઢ ઝાલોદ",
+    "scheduleNo": 16,
+    "startTime": "11:15 AM",
+    "type": "સુપર"
+  },
+  {
+    "endTime": "02:02 PM",
+    "kilometers": 403.31,
+    "route": "ઝાલોદ સોનગઢ",
+    "scheduleNo": 17,
+    "startTime": "05:03 AM",
+    "type": "સુપર"
+  },
+  {
+    "endTime": "02:03 PM",
+    "kilometers": 1.5,
+    "remarks": "એમ ટી",
+    "route": "સ્ટેન્ડ ડેપો",
+    "scheduleNo": 17,
+    "startTime": "02:25 PM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "05:02 AM",
+    "kilometers": 1.5,
+    "route": "ડેપો સ્ટેન્ડ",
+    "scheduleNo": 18,
+    "startTime": "05:15 AM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "06:01 AM",
+    "kilometers": 24.02,
+    "route": "સોનગઢ ઉચ્છલ",
+    "scheduleNo": 18,
+    "startTime": "05:03 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "08:05 AM",
+    "kilometers": 107.08,
+    "route": "ઉચ્છલ સુરત",
+    "scheduleNo": 18,
+    "startTime": "06:02 AM",
+    "type": "સુપર"
+  },
+  {
+    "endTime": "12:00 PM",
+    "kilometers": 107.08,
+    "remarks": "સીસી",
+    "route": "સુરત ઉચ્છલ",
+    "scheduleNo": 18,
+    "startTime": "09:03 AM",
+    "type": "સુપર"
+  },
+  {
+    "endTime": "03:02 PM",
+    "kilometers": 107.08,
+    "route": "ઉચ્છલ સુરત",
+    "scheduleNo": 18,
+    "startTime": "12:45 PM",
+    "type": "સુપર"
+  },
+  {
+    "endTime": "06:03 PM",
+    "kilometers": 107.08,
+    "route": "સુરત ઉચ્છલ",
+    "scheduleNo": 18,
+    "startTime": "03:05 PM",
+    "type": "સુપર"
+  },
+  {
+    "endTime": "07:45 PM",
+    "kilometers": 24.02,
+    "route": "ઉચ્છલ સોનગઢ",
+    "scheduleNo": 18,
+    "startTime": "07:15 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "07:55 PM",
+    "kilometers": 1.5,
+    "remarks": "એમ ટી",
+    "route": "સ્ટેન્ડ ડેપો",
+    "scheduleNo": 18,
+    "startTime": "07:05 PM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "05:04 AM",
+    "kilometers": 1.5,
+    "route": "ડેપો સ્ટેન્ડ",
+    "scheduleNo": 19,
+    "startTime": "05:35 AM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "06:05 AM",
+    "kilometers": 40.02,
+    "route": "સોનગઢ ઉચ્છલ નારાણપુર",
+    "scheduleNo": 19,
+    "startTime": "05:05 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "10:01 AM",
+    "kilometers": 123.08,
+    "route": "નારાણપુર ઉચ્છલ સુરત",
+    "scheduleNo": 19,
+    "startTime": "07:00 AM",
+    "type": "સુપર"
+  },
+  {
+    "endTime": "01:03 PM",
+    "kilometers": 107.08,
+    "remarks": "સીસી",
+    "route": "સુરત ઉચ્છલ",
+    "scheduleNo": 19,
+    "startTime": "10:04 AM",
+    "type": "સુપર"
+  },
+  {
+    "endTime": "04:04 PM",
+    "kilometers": 107.08,
+    "route": "ઉચ્છલ સુરત",
+    "scheduleNo": 19,
+    "startTime": "01:05 PM",
+    "type": "સુપર"
+  },
+  {
+    "endTime": "07:01 PM",
+    "kilometers": 83.08,
+    "route": "સુરત સોનગઢ",
+    "scheduleNo": 19,
+    "startTime": "05:01 PM",
+    "type": "સુપર"
+  },
+  {
+    "endTime": "07:02 PM",
+    "kilometers": 1.5,
+    "remarks": "એમ ટી",
+    "route": "સ્ટેન્ડ ડેપો",
+    "scheduleNo": 19,
+    "startTime": "07:15 PM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "05:03 AM",
+    "kilometers": 1.5,
+    "route": "સ્ટેન્ડ ડેપો",
+    "scheduleNo": 20,
+    "startTime": "05:25 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "06:15 AM",
+    "kilometers": 22.1,
+    "route": "સોનગઢ પાંચપીપળા",
+    "scheduleNo": 20,
+    "startTime": "05:04 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "07:00 AM",
+    "kilometers": 22.1,
+    "route": "પાચપીપળા સોનગઢ",
+    "scheduleNo": 20,
+    "startTime": "06:25 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "07:45 AM",
+    "kilometers": 15.03,
+    "route": "સોનગઢ આમજી કાવલા",
+    "scheduleNo": 20,
+    "startTime": "07:02 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "08:02 AM",
+    "kilometers": 15.03,
+    "route": "કાવલા આમજી સોનગઢ",
+    "scheduleNo": 20,
+    "startTime": "07:55 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "09:01 AM",
+    "kilometers": 24.02,
+    "route": "સોનગઢ ઉચ્છલ",
+    "scheduleNo": 20,
+    "startTime": "08:35 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "11:02 AM",
+    "kilometers": 73.5,
+    "route": "ઉચ્છલ બારડોલી",
+    "scheduleNo": 20,
+    "startTime": "09:03 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "01:35 PM",
+    "kilometers": 73.5,
+    "remarks": "સી.સી. સોનગઢ બસ સ્ટેન્ડ",
+    "route": "બારડોલી ઉચ્છલ",
+    "scheduleNo": 20,
+    "startTime": "11:45 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "02:02 PM",
+    "kilometers": 25.85,
+    "route": "ઉચ્છલ જાંબલી",
+    "scheduleNo": 20,
+    "startTime": "01:45 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "03:05 PM",
+    "kilometers": 26,
+    "route": "જાંબલી ઉચ્છલ",
+    "scheduleNo": 20,
+    "startTime": "02:03 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "03:55 PM",
+    "kilometers": 24.02,
+    "route": "ઉચ્છલ સોનગઢ",
+    "scheduleNo": 20,
+    "startTime": "03:02 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "04:55 PM",
+    "kilometers": 15.03,
+    "route": "સોનગઢ આમજી કાવલા",
+    "scheduleNo": 20,
+    "startTime": "04:03 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "05:03 PM",
+    "kilometers": 15.03,
+    "route": "કાવલા આમજી સોનગઢ",
+    "scheduleNo": 20,
+    "startTime": "05:05 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "06:25 PM",
+    "kilometers": 29.52,
+    "route": "સોનગઢ કાટી",
+    "scheduleNo": 20,
+    "startTime": "05:04 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "07:02 PM",
+    "kilometers": 29.52,
+    "route": "કાટી સોનગઢ",
+    "scheduleNo": 20,
+    "startTime": "06:35 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "07:03 PM",
+    "kilometers": 1.5,
+    "route": "ડેપો સ્ટેન્ડ",
+    "scheduleNo": 20,
+    "startTime": "07:25 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "08:05 AM",
+    "kilometers": 1.5,
+    "route": "ડેપો સ્ટેન્ડ",
+    "scheduleNo": 21,
+    "startTime": "08:45 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "12:00 PM",
+    "kilometers": 88.08,
+    "route": "સોનગઢ સુરત અડાજણ",
+    "scheduleNo": 21,
+    "startTime": "09:00 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "04:00 PM",
+    "kilometers": 88.08,
+    "remarks": "સી.સી. સોનગઢ બસ સ્ટેન્ડ",
+    "route": "અડાજણ સુરત સોનગઢ",
+    "scheduleNo": 21,
+    "startTime": "01:00 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "06:45 PM",
+    "kilometers": 83.08,
+    "route": "સોનગઢ સુરત",
+    "scheduleNo": 21,
+    "startTime": "04:03 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "09:03 PM",
+    "kilometers": 83.08,
+    "route": "સુરત સોનગઢ",
+    "scheduleNo": 21,
+    "startTime": "07:15 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "09:04 PM",
+    "kilometers": 1.5,
+    "route": "સ્ટેન્ડ ડેપો",
+    "scheduleNo": 21,
+    "startTime": "09:35 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "12:45 PM",
+    "kilometers": 1.5,
+    "route": "ડેપો સ્ટેન્ડ",
+    "scheduleNo": 22,
+    "startTime": "12:04 PM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "09:00 PM",
+    "kilometers": 369.9,
+    "remarks": "નાઇટ આઉટ",
+    "route": "સોનગઢ અમદાવાદ ક્રુષ્ણનગર",
+    "scheduleNo": 22,
+    "startTime": "01:00 PM",
+    "type": "સુપર"
+  },
+  {
+    "endTime": "03:00 PM",
+    "kilometers": 369.9,
+    "route": "ક્રુષ્ણનગર અમદાવાદ સોનગઢ",
+    "scheduleNo": 23,
+    "startTime": "05:03 AM",
+    "type": "સુપર"
+  },
+  {
+    "endTime": "03:15 PM",
+    "kilometers": 1.5,
+    "remarks": "એમ ટી",
+    "route": "સ્ટેન્ડ ડેપો",
+    "scheduleNo": 23,
+    "startTime": "03:01 PM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "06:04 AM",
+    "kilometers": 24.7,
+    "route": "બાલપુર વ્યારા",
+    "scheduleNo": 24,
+    "startTime": "06:00 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "07:05 AM",
+    "kilometers": 34.21,
+    "remarks": "વાયા વાંકલ અંતાપુર",
+    "route": "વ્યારા કલમકુઇ",
+    "scheduleNo": 24,
+    "startTime": "06:05 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "09:00 AM",
+    "kilometers": 34.21,
+    "remarks": "વાયા વાંકલ અંતાપુર",
+    "route": "કલમકુઇ વ્યારા",
+    "scheduleNo": 24,
+    "startTime": "08:00 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "09:04 AM",
+    "kilometers": 18.87,
+    "remarks": "વાયા ખડકાચીખલી",
+    "route": "વ્યારા મોઘવાણ",
+    "scheduleNo": 24,
+    "startTime": "09:01 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "10:02 AM",
+    "kilometers": 18.87,
+    "remarks": "વાયા ખડકાચીખલી",
+    "route": "મોઘવાણ વ્યારા",
+    "scheduleNo": 24,
+    "startTime": "09:05 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "11:45 AM",
+    "kilometers": 49.6,
+    "remarks": "વાયા પાંચપીપલા",
+    "route": "વ્યારા સોનગઢ",
+    "scheduleNo": 24,
+    "startTime": "10:03 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "11:55 AM",
+    "kilometers": 1.5,
+    "remarks": "સી.સી એમ.ટી.",
+    "route": "સ્ટેન્ડ ડેપો",
+    "scheduleNo": 24,
+    "startTime": "11:05 AM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "01:05 PM",
+    "kilometers": 1.5,
+    "route": "ડેપો સ્ટેન્ડ",
+    "scheduleNo": 24,
+    "startTime": "01:00 PM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "02:00 PM",
+    "kilometers": 29.07,
+    "remarks": "વાયા બંધરપાડા સરેયા",
+    "route": "સોનગઢ વ્યારા",
+    "scheduleNo": 24,
+    "startTime": "01:15 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "02:55 PM",
+    "kilometers": 27.6,
+    "route": "વ્યારા ગુનખડી",
+    "scheduleNo": 24,
+    "startTime": "02:01 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "03:55 PM",
+    "kilometers": 27.6,
+    "route": "ગુનખડી વ્યારા",
+    "scheduleNo": 24,
+    "startTime": "03:01 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "05:00 PM",
+    "kilometers": 34.21,
+    "remarks": "વાયા વાંકલ અંતાપુર",
+    "route": "વ્યારા કલમકુઇ",
+    "scheduleNo": 24,
+    "startTime": "04:05 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "06:05 PM",
+    "kilometers": 34.21,
+    "remarks": "વાયા વાંકલ અંતાપુર",
+    "route": "કલમકુઇ વ્યારા",
+    "scheduleNo": 24,
+    "startTime": "05:01 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "07:01 PM",
+    "kilometers": 24.7,
+    "route": "વ્યારા બાલપુર",
+    "scheduleNo": 24,
+    "startTime": "06:03 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "06:02 AM",
+    "kilometers": 1.5,
+    "route": "ડેપો સ્ટેન્ડ",
+    "scheduleNo": 25,
+    "startTime": "06:15 AM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "07:00 AM",
+    "kilometers": 18.88,
+    "route": "સોનગઢ વેકુર",
+    "scheduleNo": 25,
+    "startTime": "06:03 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "07:04 AM",
+    "kilometers": 18.88,
+    "route": "વેકુર સોનગઢ",
+    "scheduleNo": 25,
+    "startTime": "07:01 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "08:02 AM",
+    "kilometers": 19.32,
+    "route": "સોનગઢ વ્યારા",
+    "scheduleNo": 25,
+    "startTime": "07:05 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "09:55 AM",
+    "kilometers": 49.27,
+    "route": "વ્યારા ઉનાઇ ચુનાવાડી",
+    "scheduleNo": 25,
+    "startTime": "08:03 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "10:03 AM",
+    "kilometers": 16.18,
+    "route": "ચુનાવાડી ઉનાઇ",
+    "scheduleNo": 25,
+    "startTime": "10:05 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "12:45 PM",
+    "kilometers": 78.6,
+    "remarks": "સીસી",
+    "route": "ઉનાઇ સુરત",
+    "scheduleNo": 25,
+    "startTime": "10:45 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "03:45 PM",
+    "kilometers": 90.56,
+    "route": "સુરત વાંસદા",
+    "scheduleNo": 25,
+    "startTime": "01:03 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "05:01 PM",
+    "kilometers": 28.61,
+    "route": "વાંસદા ઉનાઇ ચુનાવાડી",
+    "scheduleNo": 25,
+    "startTime": "04:02 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "06:45 PM",
+    "kilometers": 49.27,
+    "route": "ચુનાવાડી ઉનાઇ વ્યારા",
+    "scheduleNo": 25,
+    "startTime": "05:02 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "07:03 PM",
+    "kilometers": 19.32,
+    "route": "વ્યારા સોનગઢ",
+    "scheduleNo": 25,
+    "startTime": "07:00 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "07:04 PM",
+    "kilometers": 1.5,
+    "remarks": "એમ ટી",
+    "route": "સ્ટેન્ડ ડેપો",
+    "scheduleNo": 25,
+    "startTime": "07:35 PM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "05:05 AM",
+    "kilometers": 1.5,
+    "route": "ડેપો સ્ટેન્ડ",
+    "scheduleNo": 26,
+    "startTime": "05:00 AM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "07:04 AM",
+    "kilometers": 98.61,
+    "route": "સોનગઢ સરવાળા",
+    "scheduleNo": 26,
+    "startTime": "05:15 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "12:03 PM",
+    "kilometers": 183.33,
+    "remarks": "સીસી",
+    "route": "સરવાળા સુરત",
+    "scheduleNo": 26,
+    "startTime": "08:00 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "03:45 PM",
+    "kilometers": 83.08,
+    "route": "સુરત સોનગઢ",
+    "scheduleNo": 26,
+    "startTime": "01:03 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "06:25 PM",
+    "kilometers": 83.08,
+    "remarks": "ટપાલ",
+    "route": "સોનગઢ સુરત",
+    "scheduleNo": 26,
+    "startTime": "04:01 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "09:15 PM",
+    "kilometers": 83.08,
+    "route": "સુરત સોનગઢ",
+    "scheduleNo": 26,
+    "startTime": "07:00 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "09:25 PM",
+    "kilometers": 1.5,
+    "remarks": "એમ ટી",
+    "route": "સ્ટેન્ડ ડેપો",
+    "scheduleNo": 26,
+    "startTime": "09:02 PM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "05:55 AM",
+    "kilometers": 1.5,
+    "route": "ડેપો સ્ટેન્ડ",
+    "scheduleNo": 27,
+    "startTime": "05:05 AM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "06:05 AM",
+    "kilometers": 29.07,
+    "remarks": "વાયા,ખાંજર,કનાડા,ખડકાચીખલી",
+    "route": "સોનગઢ વ્યારા",
+    "scheduleNo": 27,
+    "startTime": "06:05 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "07:05 AM",
+    "kilometers": 29.88,
+    "remarks": "વાયા,જેસીંગપુરા, ગડત",
+    "route": "વ્યારા ધામણદેવી",
+    "scheduleNo": 27,
+    "startTime": "07:00 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "08:03 AM",
+    "kilometers": 18,
+    "remarks": "વાયા,ગડત,બેડચીત",
+    "route": "ધામણદેવી બુહારી",
+    "scheduleNo": 27,
+    "startTime": "08:00 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "09:01 AM",
+    "kilometers": 15.79,
+    "route": "બુહારી વડીયા",
+    "scheduleNo": 27,
+    "startTime": "08:04 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "09:05 AM",
+    "kilometers": 15.79,
+    "route": "વડીયા બુહારી",
+    "scheduleNo": 27,
+    "startTime": "09:02 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "10:35 AM",
+    "kilometers": 23.09,
+    "route": "બુહારી વ્યારા",
+    "scheduleNo": 27,
+    "startTime": "10:00 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "12:05 PM",
+    "kilometers": 63.76,
+    "remarks": "સીસી",
+    "route": "વ્યારા સુરત",
+    "scheduleNo": 27,
+    "startTime": "11:15 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "03:02 PM",
+    "kilometers": 63.76,
+    "route": "સુરત વ્યારા",
+    "scheduleNo": 27,
+    "startTime": "01:45 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "05:25 PM",
+    "kilometers": 63.76,
+    "route": "વ્યારા સુરત",
+    "scheduleNo": 27,
+    "startTime": "03:05 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "08:35 PM",
+    "kilometers": 83.08,
+    "route": "સુરત સોનગઢ",
+    "scheduleNo": 27,
+    "startTime": "06:02 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "08:45 PM",
+    "kilometers": 1.5,
+    "remarks": "એમ ટી",
+    "route": "સ્ટેન્ડ ડેપો",
+    "scheduleNo": 27,
+    "startTime": "08:04 PM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "06:05 AM",
+    "kilometers": 1.5,
+    "route": "ડેપો સ્ટેન્ડ",
+    "scheduleNo": 28,
+    "startTime": "06:00 AM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "08:04 AM",
+    "kilometers": 83.08,
+    "route": "સોનગઢ સુરત",
+    "scheduleNo": 28,
+    "startTime": "06:25 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "10:45 AM",
+    "kilometers": 63.76,
+    "route": "સુરત વ્યારા",
+    "scheduleNo": 28,
+    "startTime": "09:01 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "01:00 PM",
+    "kilometers": 63.76,
+    "remarks": "સીસી",
+    "route": "વ્યારા સુરત",
+    "scheduleNo": 28,
+    "startTime": "11:25 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "03:35 PM",
+    "kilometers": 63.76,
+    "route": "સુરત વ્યારા",
+    "scheduleNo": 28,
+    "startTime": "02:00 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "05:45 PM",
+    "kilometers": 63.76,
+    "route": "વ્યારા સુરત",
+    "scheduleNo": 28,
+    "startTime": "04:15 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "08:03 PM",
+    "kilometers": 83.08,
+    "route": "સુરત સોનગઢ",
+    "scheduleNo": 28,
+    "startTime": "06:15 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "08:35 PM",
+    "kilometers": 1.5,
+    "remarks": "એમ ટી",
+    "route": "સ્ટેન્ડ ડેપો",
+    "scheduleNo": 28,
+    "startTime": "08:03 PM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "05:15 AM",
+    "kilometers": 1.5,
+    "route": "ડેપો સ્ટેન્ડ",
+    "scheduleNo": 29,
+    "startTime": "05:01 AM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "07:45 AM",
+    "kilometers": 83.08,
+    "route": "સોનગઢ સુરત",
+    "scheduleNo": 29,
+    "startTime": "05:03 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "09:05 AM",
+    "kilometers": 63.76,
+    "route": "સુરત વ્યારા",
+    "scheduleNo": 29,
+    "startTime": "08:15 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "12:01 PM",
+    "kilometers": 63.76,
+    "remarks": "સીસી",
+    "route": "વ્યારા સુરત",
+    "scheduleNo": 29,
+    "startTime": "10:03 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "02:25 PM",
+    "kilometers": 63.76,
+    "route": "સુરત વ્યારા",
+    "scheduleNo": 29,
+    "startTime": "12:04 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "04:35 PM",
+    "kilometers": 63.76,
+    "route": "વ્યારા સુરત",
+    "scheduleNo": 29,
+    "startTime": "03:00 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "07:03 PM",
+    "kilometers": 83.08,
+    "route": "સુરત સોનગઢ",
+    "scheduleNo": 29,
+    "startTime": "05:15 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "07:04 PM",
+    "kilometers": 1.5,
+    "remarks": "એમ ટી",
+    "route": "સ્ટેન્ડ ડેપો",
+    "scheduleNo": 29,
+    "startTime": "07:35 PM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "04:02 AM",
+    "kilometers": 1.5,
+    "route": "ડેપો સ્ટેન્ડ",
+    "scheduleNo": 30,
+    "startTime": "04:15 AM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "06:45 AM",
+    "kilometers": 83.08,
+    "route": "સોનગઢ સુરત",
+    "scheduleNo": 30,
+    "startTime": "04:03 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "08:55 AM",
+    "kilometers": 65.07,
+    "remarks": "વાયા વાલોડ",
+    "route": "સુરત બુહારી",
+    "scheduleNo": 30,
+    "startTime": "07:15 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "09:05 AM",
+    "kilometers": 23.09,
+    "remarks": "વાયા બેડચીત",
+    "route": "બુહારી વ્યારા",
+    "scheduleNo": 30,
+    "startTime": "09:15 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "12:05 PM",
+    "kilometers": 63.76,
+    "remarks": "સીસી",
+    "route": "વ્યારા સુરત",
+    "scheduleNo": 30,
+    "startTime": "10:03 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "04:05 PM",
+    "kilometers": 63.76,
+    "route": "સુરત વ્યારા",
+    "scheduleNo": 30,
+    "startTime": "02:03 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "06:35 PM",
+    "kilometers": 63.76,
+    "route": "વ્યારા સુરત",
+    "scheduleNo": 30,
+    "startTime": "05:00 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "09:35 PM",
+    "kilometers": 83.08,
+    "route": "સુરત સોનગઢ",
+    "scheduleNo": 30,
+    "startTime": "07:02 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "09:45 PM",
+    "kilometers": 1.5,
+    "remarks": "એમ ટી",
+    "route": "સ્ટેન્ડ ડેપો",
+    "scheduleNo": 30,
+    "startTime": "09:04 PM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "04:45 AM",
+    "kilometers": 1.5,
+    "route": "ડેપો સ્ટેન્ડ",
+    "scheduleNo": 31,
+    "startTime": "04:04 AM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "05:02 AM",
+    "kilometers": 10.84,
+    "route": "સોનગઢ ઉકાઇ",
+    "scheduleNo": 31,
+    "startTime": "05:00 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "08:00 AM",
+    "kilometers": 93.92,
+    "route": "ઉકાઇ સુરત",
+    "scheduleNo": 31,
+    "startTime": "05:03 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "11:05 AM",
+    "kilometers": 93.92,
+    "remarks": "સીસી",
+    "route": "સુરત ઉકાઇ",
+    "scheduleNo": 31,
+    "startTime": "08:45 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "03:15 PM",
+    "kilometers": 93.92,
+    "route": "ઉકાઇ સુરત",
+    "scheduleNo": 31,
+    "startTime": "12:45 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "06:03 PM",
+    "kilometers": 93.92,
+    "route": "સુરત ઉકાઇ",
+    "scheduleNo": 31,
+    "startTime": "04:00 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "07:02 PM",
+    "kilometers": 10.84,
+    "route": "ઉકાઇ સોનગઢ",
+    "scheduleNo": 31,
+    "startTime": "07:00 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "07:03 PM",
+    "kilometers": 1.5,
+    "remarks": "એમ ટી",
+    "route": "સ્ટેન્ડ ડેપો",
+    "scheduleNo": 31,
+    "startTime": "07:25 PM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "06:55 AM",
+    "kilometers": 1.5,
+    "route": "ડેપો સ્ટેન્ડ",
+    "scheduleNo": 32,
+    "startTime": "06:05 AM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "07:25 AM",
+    "kilometers": 10.84,
+    "route": "સોનગઢ ઉકાઇ",
+    "scheduleNo": 32,
+    "startTime": "07:05 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "10:00 AM",
+    "kilometers": 93.92,
+    "route": "ઉકાઇ સુરત",
+    "scheduleNo": 32,
+    "startTime": "07:04 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "01:04 PM",
+    "kilometers": 112.22,
+    "remarks": "સીસી",
+    "route": "સુરત નવાપુર",
+    "scheduleNo": 32,
+    "startTime": "10:05 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "05:01 PM",
+    "kilometers": 112.22,
+    "route": "નવાપુર સુરત",
+    "scheduleNo": 32,
+    "startTime": "02:02 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "08:01 PM",
+    "kilometers": 93.92,
+    "route": "સુરત ઉકાઇ",
+    "scheduleNo": 32,
+    "startTime": "05:05 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "08:05 PM",
+    "kilometers": 10.84,
+    "route": "ઉકાઇ સોનગઢ",
+    "scheduleNo": 32,
+    "startTime": "08:03 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "09:00 PM",
+    "kilometers": 1.5,
+    "remarks": "એમ ટી",
+    "route": "સ્ટેન્ડ ડેપો",
+    "scheduleNo": 32,
+    "startTime": "08:55 PM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "05:05 AM",
+    "kilometers": 1.5,
+    "route": "ડેપો સ્ટેન્ડ",
+    "scheduleNo": 33,
+    "startTime": "05:00 AM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "05:35 AM",
+    "kilometers": 10.84,
+    "route": "સોનગઢ ઉકાઇ",
+    "scheduleNo": 33,
+    "startTime": "05:15 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "08:15 AM",
+    "kilometers": 93.92,
+    "route": "ઉકાઇ સુરત",
+    "scheduleNo": 33,
+    "startTime": "05:45 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "11:02 AM",
+    "kilometers": 93.92,
+    "remarks": "સીસી",
+    "route": "સુરત ઉકાઇ",
+    "scheduleNo": 33,
+    "startTime": "09:00 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "02:04 PM",
+    "kilometers": 93.92,
+    "route": "ઉકાઇ સુરત",
+    "scheduleNo": 33,
+    "startTime": "12:01 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "05:04 PM",
+    "kilometers": 93.92,
+    "route": "સુરત ઉકાઇ",
+    "scheduleNo": 33,
+    "startTime": "03:15 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "06:35 PM",
+    "kilometers": 10.84,
+    "route": "ઉકાઇ સોનગઢ",
+    "scheduleNo": 33,
+    "startTime": "06:15 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "06:45 PM",
+    "kilometers": 1.5,
+    "remarks": "એમ ટી",
+    "route": "સ્ટેન્ડ ડેપો",
+    "scheduleNo": 33,
+    "startTime": "06:04 PM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "05:35 AM",
+    "kilometers": 1.5,
+    "route": "ડેપો સ્ટેન્ડ",
+    "scheduleNo": 34,
+    "startTime": "05:03 AM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "06:25 AM",
+    "kilometers": 22,
+    "remarks": "વાયા રામપુરા ચકવાણ",
+    "route": "સોનગઢ ચકવાણ",
+    "scheduleNo": 34,
+    "startTime": "05:45 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "07:15 AM",
+    "kilometers": 24,
+    "remarks": "વાયા કળાઘાટ સાંડકુવારામપુરા",
+    "route": "ચકવાણ સોનગઢ",
+    "scheduleNo": 34,
+    "startTime": "06:03 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "08:05 AM",
+    "kilometers": 51.95,
+    "remarks": "વાયા ઉકાઇ ખેરવાડા",
+    "route": "સોનગઢ માંડવી",
+    "scheduleNo": 34,
+    "startTime": "07:03 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "10:01 AM",
+    "kilometers": 37.98,
+    "remarks": "વાયા, કાકરાપાર",
+    "route": "માંડવી વ્યારા",
+    "scheduleNo": 34,
+    "startTime": "09:01 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "11:02 AM",
+    "kilometers": 32.19,
+    "route": "વ્યારા બારડોલી",
+    "scheduleNo": 34,
+    "startTime": "10:03 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "12:03 PM",
+    "kilometers": 32.19,
+    "remarks": "વ્યારા સીસી",
+    "route": "બારડોલી વ્યારા",
+    "scheduleNo": 34,
+    "startTime": "11:04 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "01:35 PM",
+    "kilometers": 23,
+    "remarks": "વાયા ખુટાડીયા",
+    "route": "વ્યારા મંગલીયા નિશાળ",
+    "scheduleNo": 34,
+    "startTime": "01:00 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "02:02 PM",
+    "kilometers": 23,
+    "remarks": "વાયા ખુટાડીયા",
+    "route": "નિશાળ મંગલીયા વ્યારા",
+    "scheduleNo": 34,
+    "startTime": "01:45 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "03:25 PM",
+    "kilometers": 29.88,
+    "remarks": "વાયા,જેસીંગપુરા, ગડત",
+    "route": "વ્યારા ધામણદેવી",
+    "scheduleNo": 34,
+    "startTime": "02:04 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "04:05 PM",
+    "kilometers": 18,
+    "remarks": "વાયા,ગડત,બેડચીત",
+    "route": "ધામણદેવી બુહારી",
+    "scheduleNo": 34,
+    "startTime": "03:35 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "05:01 PM",
+    "kilometers": 15.79,
+    "route": "બુહારી વડીયા",
+    "scheduleNo": 34,
+    "startTime": "04:04 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "05:05 PM",
+    "kilometers": 15.79,
+    "route": "વડીયા બુહારી",
+    "scheduleNo": 34,
+    "startTime": "05:02 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "06:03 PM",
+    "kilometers": 18,
+    "route": "બુહારી ધામણદેવી",
+    "scheduleNo": 34,
+    "startTime": "06:00 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "07:25 PM",
+    "kilometers": 29.88,
+    "route": "ધામણદેવી વ્યારા",
+    "scheduleNo": 34,
+    "startTime": "06:04 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "08:05 PM",
+    "kilometers": 19.32,
+    "route": "વ્યારા સોનગઢ",
+    "scheduleNo": 34,
+    "startTime": "07:35 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "08:15 PM",
+    "kilometers": 1.5,
+    "remarks": "એમ ટી",
+    "route": "સ્ટેન્ડ ડેપો",
+    "scheduleNo": 34,
+    "startTime": "08:01 PM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "07:00 AM",
+    "kilometers": 24.92,
+    "route": "મોઘવાણ સોનગઢ",
+    "scheduleNo": 35,
+    "startTime": "06:01 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "08:03 AM",
+    "kilometers": 46.38,
+    "remarks": "વાયા ટેમ્કા બંધપાડા સરેયા",
+    "route": "સોનગઢ વ્યારા",
+    "scheduleNo": 35,
+    "startTime": "07:01 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "09:03 AM",
+    "kilometers": 29.07,
+    "remarks": "વાયા સરેયા બંધપાડા",
+    "route": "વ્યારા સોનગઢ",
+    "scheduleNo": 35,
+    "startTime": "08:04 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "10:55 AM",
+    "kilometers": 49.6,
+    "remarks": "વાયા પાંચપીપલા",
+    "route": "સોનગઢ વ્યારા",
+    "scheduleNo": 35,
+    "startTime": "09:04 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "12:15 PM",
+    "kilometers": 46.38,
+    "remarks": "વાયા ટેમ્કા બંધરપાડા સરેયા",
+    "route": "વ્યારા સોનગઢ",
+    "scheduleNo": 35,
+    "startTime": "11:05 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "12:25 PM",
+    "kilometers": 1.5,
+    "remarks": "સી.સી. એમ ટી",
+    "route": "સ્ટેન્ડ ડેપો",
+    "scheduleNo": 35,
+    "startTime": "12:02 PM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "01:25 PM",
+    "kilometers": 1.5,
+    "route": "ડેપો સ્ટેન્ડ",
+    "scheduleNo": 35,
+    "startTime": "01:02 PM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "02:45 PM",
+    "kilometers": 49.6,
+    "remarks": "વાયા પાંચપીપલા",
+    "route": "સોનગઢ વ્યારા",
+    "scheduleNo": 35,
+    "startTime": "01:35 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "03:04 PM",
+    "kilometers": 23.09,
+    "remarks": "વાયા બેડચીત",
+    "route": "વ્યારા બુહારી",
+    "scheduleNo": 35,
+    "startTime": "03:00 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "04:35 PM",
+    "kilometers": 23.09,
+    "remarks": "વાયા બેડચીત",
+    "route": "બુહારી વ્યારા",
+    "scheduleNo": 35,
+    "startTime": "04:00 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "05:55 PM",
+    "kilometers": 49.6,
+    "remarks": "વાયા પાંચપીપલા",
+    "route": "વ્યારા સોનગઢ",
+    "scheduleNo": 35,
+    "startTime": "04:04 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "06:55 PM",
+    "kilometers": 24.92,
+    "remarks": "નાઇટ આઉટ",
+    "route": "સોનગઢ મોઘવાણ",
+    "scheduleNo": 35,
+    "startTime": "06:05 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "07:02 AM",
+    "kilometers": 45.09,
+    "remarks": "વાયા બુહરી વાલોડ બાજીપુરા",
+    "route": "ઉનાઇ વ્યારા",
+    "scheduleNo": 36,
+    "startTime": "06:01 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "07:55 AM",
+    "kilometers": 12.38,
+    "route": "વ્યાર છીંડીયા",
+    "scheduleNo": 36,
+    "startTime": "07:35 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "08:25 AM",
+    "kilometers": 12.38,
+    "route": "છીંડીયા વ્યારા",
+    "scheduleNo": 36,
+    "startTime": "08:05 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "09:00 AM",
+    "kilometers": 24.7,
+    "remarks": "વાયા ખુટાડીયા",
+    "route": "વ્યારા બાલપુર",
+    "scheduleNo": 36,
+    "startTime": "08:03 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "09:04 AM",
+    "kilometers": 24.7,
+    "remarks": "વાયા ખુટાડીયા",
+    "route": "બાલપુર વ્યારા",
+    "scheduleNo": 36,
+    "startTime": "09:01 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "10:04 AM",
+    "kilometers": 33.09,
+    "route": "વ્યરા ઉનાઇ",
+    "scheduleNo": 36,
+    "startTime": "09:05 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "11:04 AM",
+    "kilometers": 52.41,
+    "route": "ઉનાઇ સોનગઢ",
+    "scheduleNo": 36,
+    "startTime": "10:05 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "11:05 AM",
+    "kilometers": 1.5,
+    "remarks": "સી.સી. એમ ટી",
+    "route": "સ્ટેન્ડ ડેપો",
+    "scheduleNo": 36,
+    "startTime": "11:45 AM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "01:35 PM",
+    "kilometers": 1.5,
+    "route": "ડેપો સ્ટેન્ડ",
+    "scheduleNo": 36,
+    "startTime": "01:03 PM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "03:05 PM",
+    "kilometers": 52.41,
+    "route": "સોનગઢ ઉનાઇ",
+    "scheduleNo": 36,
+    "startTime": "01:45 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "04:25 PM",
+    "kilometers": 33.09,
+    "route": "ઉનાઇ વ્યારા",
+    "scheduleNo": 36,
+    "startTime": "03:35 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "05:25 PM",
+    "kilometers": 24.7,
+    "remarks": "વાયા ખુટાડીયા",
+    "route": "વ્યારા બાલપુર",
+    "scheduleNo": 36,
+    "startTime": "04:45 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "06:15 PM",
+    "kilometers": 24.7,
+    "remarks": "વાયા ખુટાડીયા",
+    "route": "બાલપુર વ્યારા",
+    "scheduleNo": 36,
+    "startTime": "05:35 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "07:15 PM",
+    "kilometers": 33.09,
+    "remarks": "વાયા બેડચીત નાઇટ આઉટ",
+    "route": "વ્યરા ઉનાઇ",
+    "scheduleNo": 36,
+    "startTime": "06:25 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "06:05 AM",
+    "kilometers": 1.5,
+    "route": "ડેપો સ્ટેન્ડ",
+    "scheduleNo": 37,
+    "startTime": "06:00 AM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "07:35 AM",
+    "kilometers": 51.5,
+    "route": "સોનગઢ સુબીર",
+    "scheduleNo": 37,
+    "startTime": "06:15 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "09:02 AM",
+    "kilometers": 51.5,
+    "route": "સુબીર સોનગઢ",
+    "scheduleNo": 37,
+    "startTime": "08:00 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "11:15 AM",
+    "kilometers": 43.94,
+    "remarks": "વાયા ઉકાઇ",
+    "route": "સોનગઢ બોરદા",
+    "scheduleNo": 37,
+    "startTime": "10:00 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "12:04 PM",
+    "kilometers": 43.94,
+    "remarks": "વાયા ઉકાઇ સીસી સોનગઢ સ્ટેન્ડ",
+    "route": "બોરદા સોનગઢ",
+    "scheduleNo": 37,
+    "startTime": "11:25 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "01:05 PM",
+    "kilometers": 16.88,
+    "route": "સોનગઢ વેકુર",
+    "scheduleNo": 37,
+    "startTime": "01:02 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "02:03 PM",
+    "kilometers": 16.88,
+    "route": "વેકુર સોનગઢ",
+    "scheduleNo": 37,
+    "startTime": "02:00 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "03:55 PM",
+    "kilometers": 43.94,
+    "remarks": "વાયા ઉકાઇ",
+    "route": "સોનગઢ બોરદા",
+    "scheduleNo": 37,
+    "startTime": "02:04 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "05:25 PM",
+    "kilometers": 43.94,
+    "remarks": "વાયા ઉકાઇ",
+    "route": "બોરદા સોનગઢ",
+    "scheduleNo": 37,
+    "startTime": "04:01 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "06:25 PM",
+    "kilometers": 30.34,
+    "remarks": "વાયા ઉકાઇ",
+    "route": "સોનગઢ ખેરવાડા",
+    "scheduleNo": 37,
+    "startTime": "05:04 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "07:25 PM",
+    "kilometers": 30.34,
+    "remarks": "વાયા ઉકાઇ",
+    "route": "ખેરવાડા સોનગઢ",
+    "scheduleNo": 37,
+    "startTime": "06:04 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "07:04 PM",
+    "kilometers": 1.5,
+    "remarks": "એમ ટી",
+    "route": "સ્ટેન્ડ ડેપો",
+    "scheduleNo": 37,
+    "startTime": "07:03 PM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "05:05 AM",
+    "kilometers": 1.5,
+    "route": "ડેપો સ્ટેન્ડ",
+    "scheduleNo": 38,
+    "startTime": "05:45 AM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "06:04 AM",
+    "kilometers": 24,
+    "remarks": "વાયા રામપુરા કુકડઝર કુકડાડુંગરી ચકવાણ",
+    "route": "સોનગઢ ઘોળીરુવાળી",
+    "scheduleNo": 38,
+    "startTime": "06:00 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "07:03 AM",
+    "kilometers": 24,
+    "remarks": "વાયા રામપુરા કુકડઝર કુકડાડુંગરી ચકવાણ",
+    "route": "ઘોળીરુવાળી સોનગઢ",
+    "scheduleNo": 38,
+    "startTime": "06:05 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "08:35 AM",
+    "kilometers": 29.9,
+    "remarks": "વાયા દુમદા અગાસવાણ",
+    "route": "સોનગઢ વ્યારા",
+    "scheduleNo": 38,
+    "startTime": "07:05 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "09:02 AM",
+    "kilometers": 23,
+    "remarks": "વાયા ખુટાડીયા",
+    "route": "વ્યારા મંગલીયા નિશાળ",
+    "scheduleNo": 38,
+    "startTime": "08:45 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "10:05 AM",
+    "kilometers": 23,
+    "remarks": "વાયા ખુટાડીયા",
+    "route": "નિશાળ મંગલીયા વ્યારા",
+    "scheduleNo": 38,
+    "startTime": "09:03 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "12:02 PM",
+    "kilometers": 63.76,
+    "remarks": "સીસી",
+    "route": "વ્યારા સુરત",
+    "scheduleNo": 38,
+    "startTime": "10:04 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "03:05 PM",
+    "kilometers": 83.08,
+    "route": "સુરત સોનગઢ",
+    "scheduleNo": 38,
+    "startTime": "12:05 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "05:45 PM",
+    "kilometers": 83.08,
+    "route": "સોનગઢ સુરત",
+    "scheduleNo": 38,
+    "startTime": "03:03 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "08:03 PM",
+    "kilometers": 83.08,
+    "route": "સુરત સોનગઢ",
+    "scheduleNo": 38,
+    "startTime": "06:15 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "08:04 PM",
+    "kilometers": 1.5,
+    "remarks": "એમ ટી",
+    "route": "સ્ટેન્ડ ડેપો",
+    "scheduleNo": 38,
+    "startTime": "08:35 PM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "08:04 AM",
+    "kilometers": 93.92,
+    "route": "સુરત ઉકાઇ",
+    "scheduleNo": 39,
+    "startTime": "06:00 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "10:45 AM",
+    "kilometers": 62.76,
+    "route": "ઉકાઇ બારડોલી",
+    "scheduleNo": 39,
+    "startTime": "09:01 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "12:02 PM",
+    "kilometers": 51.92,
+    "remarks": "સીસી સોનગઢ સ્ટેન્ડ",
+    "route": "બારડોલી સોનગઢ",
+    "scheduleNo": 39,
+    "startTime": "11:00 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "01:03 PM",
+    "kilometers": 32.7,
+    "route": "સોનગઢ શિરીષપાડા",
+    "scheduleNo": 39,
+    "startTime": "12:04 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "02:03 PM",
+    "kilometers": 32.7,
+    "route": "શિરીષપાડા સોનગઢ",
+    "scheduleNo": 39,
+    "startTime": "01:04 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "02:04 PM",
+    "kilometers": 1.5,
+    "remarks": "સીસી એમ ટી",
+    "route": "સ્ટેન્ડ ડેપો",
+    "scheduleNo": 39,
+    "startTime": "02:35 PM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "03:45 PM",
+    "kilometers": 1.5,
+    "route": "ડેપો સ્ટેન્ડ",
+    "scheduleNo": 39,
+    "startTime": "03:04 PM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "04:25 PM",
+    "kilometers": 24.02,
+    "route": "સોનગઢ ઉચ્છલ",
+    "scheduleNo": 39,
+    "startTime": "03:05 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "04:55 PM",
+    "kilometers": 11,
+    "route": "ઉચ્છલ સાકરદા કટાસવાણ",
+    "scheduleNo": 39,
+    "startTime": "04:04 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "05:02 PM",
+    "kilometers": 11,
+    "route": "કટાસવાણ સાકરદા ઉચ્છલ",
+    "scheduleNo": 39,
+    "startTime": "05:05 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "08:01 PM",
+    "kilometers": 107.08,
+    "remarks": "નાઇટ આઉટ",
+    "route": "ઉચ્છલ સુરત",
+    "scheduleNo": 39,
+    "startTime": "05:03 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "07:35 AM",
+    "kilometers": 111.17,
+    "route": "નિઝર વ્યારા",
+    "scheduleNo": 40,
+    "startTime": "04:45 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "08:04 AM",
+    "kilometers": 32.21,
+    "route": "વ્યારા ઘાસીયામેઢા",
+    "scheduleNo": 40,
+    "startTime": "07:05 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "09:04 AM",
+    "kilometers": 32.21,
+    "route": "ઘાસીયામેઢા વ્યારા",
+    "scheduleNo": 40,
+    "startTime": "08:05 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "10:03 AM",
+    "kilometers": 19.32,
+    "route": "વ્યારા સોનગઢ",
+    "scheduleNo": 40,
+    "startTime": "10:00 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "10:04 AM",
+    "kilometers": 1.5,
+    "remarks": "સીસી એમ ટી",
+    "route": "સ્ટેન્ડ ડેપો",
+    "scheduleNo": 40,
+    "startTime": "10:35 AM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "11:55 AM",
+    "kilometers": 1.5,
+    "route": "ડેપો સ્ટેન્ડ",
+    "scheduleNo": 40,
+    "startTime": "11:05 AM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "02:03 PM",
+    "kilometers": 91.85,
+    "route": "સોનગઢ નિઝર કોલેજ",
+    "scheduleNo": 40,
+    "startTime": "12:01 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "03:05 PM",
+    "kilometers": 33.6,
+    "route": "નિઝર કોલેજ ઇટવાઇ",
+    "scheduleNo": 40,
+    "startTime": "03:00 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "05:00 PM",
+    "kilometers": 33.6,
+    "route": "ઇટવાઇ નિઝર કોલેજ",
+    "scheduleNo": 40,
+    "startTime": "04:01 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "05:45 PM",
+    "kilometers": 21,
+    "remarks": "વાયા જુની ભીલભવાલી",
+    "route": "નિઝર કોલેજ ભીલજાંબલી",
+    "scheduleNo": 40,
+    "startTime": "05:15 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "06:03 PM",
+    "kilometers": 21,
+    "remarks": "નાઇટ આઉટ",
+    "route": "ભીલજાંબલી નિઝર",
+    "scheduleNo": 40,
+    "startTime": "06:00 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "06:03 AM",
+    "kilometers": 17,
+    "route": "કુકરમુન્ડા નિઝર",
+    "scheduleNo": 41,
+    "startTime": "06:00 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "07:02 AM",
+    "kilometers": 26.3,
+    "remarks": "હથોડા.બહુરુપા",
+    "route": "નિઝર પિસાવર",
+    "scheduleNo": 41,
+    "startTime": "06:04 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "08:25 AM",
+    "kilometers": 26.3,
+    "remarks": "હથોડા.બહુરુપા",
+    "route": "પિસાવર નિઝર",
+    "scheduleNo": 41,
+    "startTime": "07:35 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "09:15 AM",
+    "kilometers": 21,
+    "route": "નિઝર કોલેજ ભીલજાંબલી",
+    "scheduleNo": 41,
+    "startTime": "08:04 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "10:00 AM",
+    "kilometers": 21,
+    "route": "ભીલજાંબલી નિઝર કોલેજ",
+    "scheduleNo": 41,
+    "startTime": "09:25 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "12:35 PM",
+    "kilometers": 92.67,
+    "route": "નિઝર કોલેજ સોનગઢ",
+    "scheduleNo": 41,
+    "startTime": "10:15 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "12:45 PM",
+    "kilometers": 1.5,
+    "remarks": "સીસી એમ ટી",
+    "route": "સ્ટેન્ડ ડેપો",
+    "scheduleNo": 41,
+    "startTime": "12:04 PM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "01:35 PM",
+    "kilometers": 1.5,
+    "route": "ડેપો સ્ટેન્ડ",
+    "scheduleNo": 41,
+    "startTime": "01:03 PM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "04:00 PM",
+    "kilometers": 83.08,
+    "route": "સોનગઢ સુરત",
+    "scheduleNo": 41,
+    "startTime": "01:45 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "09:00 PM",
+    "kilometers": 180.93,
+    "remarks": "નાઇટ આઉટ",
+    "route": "સુરત કુકરમુન્ડા",
+    "scheduleNo": 41,
+    "startTime": "04:03 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "04:05 AM",
+    "kilometers": 1.5,
+    "route": "ડેપો સ્ટેન્ડ",
+    "scheduleNo": 42,
+    "startTime": "04:45 AM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "06:02 AM",
+    "kilometers": 51.51,
+    "route": "સોનગઢ બારડોલી",
+    "scheduleNo": 42,
+    "startTime": "05:00 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "07:02 AM",
+    "kilometers": 32.19,
+    "route": "બારડોલી વ્યારા",
+    "scheduleNo": 42,
+    "startTime": "06:03 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "08:00 AM",
+    "kilometers": 17.66,
+    "route": "વ્યારા ખોડતલાવ",
+    "scheduleNo": 42,
+    "startTime": "07:03 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "08:04 AM",
+    "kilometers": 17.66,
+    "route": "ખોડતલાવ વ્યારા",
+    "scheduleNo": 42,
+    "startTime": "08:01 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "09:25 AM",
+    "kilometers": 16.09,
+    "route": "વ્યારા ઉમરકુઇ",
+    "scheduleNo": 42,
+    "startTime": "09:00 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "10:00 AM",
+    "kilometers": 16.09,
+    "route": "ઉમરકુઇ વ્યારા",
+    "scheduleNo": 42,
+    "startTime": "09:35 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "11:00 AM",
+    "kilometers": 19.32,
+    "remarks": "સીસી સોનગઢ સ્ટેન્ડ",
+    "route": "વ્યારા સોનગઢ",
+    "scheduleNo": 42,
+    "startTime": "10:03 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "01:05 PM",
+    "kilometers": 91.85,
+    "route": "સોનગઢ નિઝર",
+    "scheduleNo": 42,
+    "startTime": "11:03 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "04:05 PM",
+    "kilometers": 67.85,
+    "route": "નિઝર ઉચ્છલ",
+    "scheduleNo": 42,
+    "startTime": "02:15 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "05:15 PM",
+    "kilometers": 25.85,
+    "route": "ઉચ્છલ જાંબલી",
+    "scheduleNo": 42,
+    "startTime": "04:35 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "06:05 PM",
+    "kilometers": 26,
+    "route": "જાંબલી નારણપુર ઉચ્છલ",
+    "scheduleNo": 42,
+    "startTime": "05:25 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "07:00 PM",
+    "kilometers": 24.02,
+    "route": "ઉચ્છલ સોનગઢ",
+    "scheduleNo": 42,
+    "startTime": "06:02 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "07:01 PM",
+    "kilometers": 1.5,
+    "remarks": "એમ ટી",
+    "route": "સ્ટેન્ડ ડેપો",
+    "scheduleNo": 42,
+    "startTime": "07:05 PM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "06:05 AM",
+    "kilometers": 1.5,
+    "route": "ડેપો સ્ટેન્ડ",
+    "scheduleNo": 43,
+    "startTime": "06:00 AM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "08:05 AM",
+    "kilometers": 91.85,
+    "remarks": "વાયા જુની ભીલભવાલી",
+    "route": "સોનગઢ નિઝર",
+    "scheduleNo": 43,
+    "startTime": "06:15 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "09:04 AM",
+    "kilometers": 20.02,
+    "route": "નિઝર વ્યાવલ",
+    "scheduleNo": 43,
+    "startTime": "09:01 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "10:02 AM",
+    "kilometers": 20.02,
+    "remarks": "વાયા, સરવાળા",
+    "route": "વ્યાવલ નિઝર",
+    "scheduleNo": 43,
+    "startTime": "09:05 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "03:01 PM",
+    "kilometers": 174.93,
+    "remarks": "સીસી સોનગઢ સ્ટેન્ડ",
+    "route": "નીઝર સુરત",
+    "scheduleNo": 43,
+    "startTime": "10:04 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "05:00 PM",
+    "kilometers": 63.76,
+    "route": "સુરત વ્યારા",
+    "scheduleNo": 43,
+    "startTime": "03:03 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "05:05 PM",
+    "kilometers": 23,
+    "remarks": "વાયા ખુટાડીયા આંબીયા",
+    "route": "વ્યારા મંગલીયા નિશાળ",
+    "scheduleNo": 43,
+    "startTime": "05:15 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "06:03 PM",
+    "kilometers": 23,
+    "remarks": "વાયા ખુટાડીયા આંબીયા",
+    "route": "નિશાળ મંગલીયા વ્યારા",
+    "scheduleNo": 43,
+    "startTime": "06:00 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "07:01 PM",
+    "kilometers": 19.32,
+    "route": "વ્યારા સોનગઢ",
+    "scheduleNo": 43,
+    "startTime": "06:04 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "07:02 PM",
+    "kilometers": 1.5,
+    "remarks": "એમ ટી",
+    "route": "સ્ટેન્ડ ડેપો",
+    "scheduleNo": 43,
+    "startTime": "07:15 PM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "08:04 AM",
+    "kilometers": 65.95,
+    "route": "પેલાડ્બુહારી સુરત",
+    "scheduleNo": 44,
+    "startTime": "07:00 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "11:03 AM",
+    "kilometers": 83.08,
+    "route": "સુરત સોનગઢ",
+    "scheduleNo": 44,
+    "startTime": "09:15 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "11:04 AM",
+    "kilometers": 1.5,
+    "remarks": "સીસી એમ ટી",
+    "route": "સ્ટેન્ડ ડેપો",
+    "scheduleNo": 44,
+    "startTime": "11:35 AM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "12:35 PM",
+    "kilometers": 1.5,
+    "route": "ડેપો સ્ટેન્ડ",
+    "scheduleNo": 44,
+    "startTime": "12:03 PM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "03:00 PM",
+    "kilometers": 83.08,
+    "route": "સોનગઢ સુરત",
+    "scheduleNo": 44,
+    "startTime": "12:45 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "05:01 PM",
+    "kilometers": 63.76,
+    "route": "સુરત વ્યારા",
+    "scheduleNo": 44,
+    "startTime": "03:03 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "05:05 PM",
+    "kilometers": 20.87,
+    "remarks": "વાયા ટીચકીયા",
+    "route": "વ્યારા મોઘવાણ",
+    "scheduleNo": 44,
+    "startTime": "05:02 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "06:03 PM",
+    "kilometers": 20.87,
+    "remarks": "વાયા બંધરપાડા સરેયા",
+    "route": "મોઘવાણ વ્યારા",
+    "scheduleNo": 44,
+    "startTime": "06:00 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "07:15 PM",
+    "kilometers": 23.09,
+    "remarks": "વાયા બેડચીત નાઇટ આઉટ",
+    "route": "વ્યારા પેલાડબુહારી",
+    "scheduleNo": 44,
+    "startTime": "06:04 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "05:25 AM",
+    "kilometers": 1.5,
+    "route": "ડેપો સ્ટેન્ડ",
+    "scheduleNo": 45,
+    "startTime": "05:02 AM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "08:01 AM",
+    "kilometers": 97.85,
+    "route": "સોનગઢ કુકરમુન્ડા",
+    "scheduleNo": 45,
+    "startTime": "05:04 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "08:03 AM",
+    "kilometers": 6,
+    "route": "કુકરમુન્ડા મટાવલ",
+    "scheduleNo": 45,
+    "startTime": "08:02 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "08:45 AM",
+    "kilometers": 6,
+    "route": "મટાવલ કુકરમુન્ડા",
+    "scheduleNo": 45,
+    "startTime": "08:35 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "01:03 PM",
+    "kilometers": 180.93,
+    "remarks": "સીસી સોનગઢ સ્ટેન્ડ",
+    "route": "કુકરમુન્ડા સુરત",
+    "scheduleNo": 45,
+    "startTime": "09:00 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "04:35 PM",
+    "kilometers": 83.08,
+    "route": "સુરત સોનગઢ",
+    "scheduleNo": 45,
+    "startTime": "02:02 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "05:45 PM",
+    "kilometers": 21.02,
+    "route": "સોનગઢ ટાપરવાડા",
+    "scheduleNo": 45,
+    "startTime": "05:15 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "06:25 PM",
+    "kilometers": 21.02,
+    "route": "ટાપરવાડા સોનગઢ",
+    "scheduleNo": 45,
+    "startTime": "05:55 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "06:35 PM",
+    "kilometers": 1.5,
+    "remarks": "સીસી એમ ટી",
+    "route": "સ્ટેન્ડ ડેપો",
+    "scheduleNo": 45,
+    "startTime": "06:03 PM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "05:35 AM",
+    "kilometers": 1.5,
+    "route": "ડેપો સ્ટેન્ડ",
+    "scheduleNo": 46,
+    "startTime": "05:03 AM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "06:03 AM",
+    "kilometers": 29.52,
+    "route": "સોનગઢ કાટી",
+    "scheduleNo": 46,
+    "startTime": "05:45 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "07:35 AM",
+    "kilometers": 29.52,
+    "route": "કાટી સોનગઢ",
+    "scheduleNo": 46,
+    "startTime": "06:05 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "08:03 AM",
+    "kilometers": 19.32,
+    "route": "સોનગઢ વ્યારા",
+    "scheduleNo": 46,
+    "startTime": "08:00 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "09:15 AM",
+    "kilometers": 22.8,
+    "route": "વ્યારા રાણીઆંબા",
+    "scheduleNo": 46,
+    "startTime": "08:04 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "10:00 AM",
+    "kilometers": 22.8,
+    "route": "રાણીઆંબા વ્યારા",
+    "scheduleNo": 46,
+    "startTime": "09:25 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "11:00 AM",
+    "kilometers": 37.98,
+    "remarks": "વાયા, કાકરાપાર",
+    "route": "વ્યારા માંડવી",
+    "scheduleNo": 46,
+    "startTime": "10:01 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "12:02 PM",
+    "kilometers": 37.98,
+    "remarks": "વાયા, કાકરાપાર સીસી",
+    "route": "માંડવી વ્યારા",
+    "scheduleNo": 46,
+    "startTime": "11:02 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "02:25 PM",
+    "kilometers": 63.76,
+    "route": "વ્યારા સુરત",
+    "scheduleNo": 46,
+    "startTime": "12:45 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "04:04 PM",
+    "kilometers": 63.76,
+    "route": "સુરત વ્યારા",
+    "scheduleNo": 46,
+    "startTime": "03:00 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "05:04 PM",
+    "kilometers": 22.8,
+    "route": "વ્યારા રાણીઆંબા",
+    "scheduleNo": 46,
+    "startTime": "05:00 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "06:03 PM",
+    "kilometers": 22.8,
+    "route": "રાણીઆંબા વ્યારા",
+    "scheduleNo": 46,
+    "startTime": "05:05 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "07:03 PM",
+    "kilometers": 29.07,
+    "remarks": "વાયા સરેયા બંધરપાડા",
+    "route": "વ્યારા સોનગઢ",
+    "scheduleNo": 46,
+    "startTime": "06:45 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "07:04 PM",
+    "kilometers": 1.5,
+    "remarks": "સીસી એમ ટી",
+    "route": "સ્ટેન્ડ ડેપો",
+    "scheduleNo": 46,
+    "startTime": "07:35 PM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "05:35 AM",
+    "kilometers": 1.5,
+    "route": "ડેપો સ્ટેન્ડ",
+    "scheduleNo": 47,
+    "startTime": "05:03 AM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "06:15 AM",
+    "kilometers": 19.32,
+    "route": "સોનગઢ વ્યારા",
+    "scheduleNo": 47,
+    "startTime": "05:45 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "09:02 AM",
+    "kilometers": 111.17,
+    "route": "વ્યારા નિઝર",
+    "scheduleNo": 47,
+    "startTime": "06:03 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "02:00 PM",
+    "kilometers": 174.93,
+    "remarks": "સીસી સોનગઢ સ્ટેન્ડ",
+    "route": "નીઝર સુરત",
+    "scheduleNo": 47,
+    "startTime": "09:04 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "04:55 PM",
+    "kilometers": 83.08,
+    "route": "સુરત સોનગઢ",
+    "scheduleNo": 47,
+    "startTime": "02:04 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "06:00 PM",
+    "kilometers": 20.36,
+    "route": "સોનગઢ ચકવાણ",
+    "scheduleNo": 47,
+    "startTime": "05:03 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "06:04 PM",
+    "kilometers": 20.36,
+    "route": "ચકવાણ સોનગઢ",
+    "scheduleNo": 47,
+    "startTime": "06:01 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "06:05 PM",
+    "kilometers": 1.5,
+    "remarks": "સીસી એમ ટી",
+    "route": "સ્ટેન્ડ ડેપો",
+    "scheduleNo": 47,
+    "startTime": "06:45 PM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "05:55 AM",
+    "kilometers": 1.5,
+    "route": "ડેપો સ્ટેન્ડ",
+    "scheduleNo": 48,
+    "startTime": "05:05 AM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "06:05 AM",
+    "kilometers": 29.6,
+    "route": "સોનગઢ ઘુટવેલ",
+    "scheduleNo": 48,
+    "startTime": "06:05 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "07:45 AM",
+    "kilometers": 29.6,
+    "route": "ઘુટવેલ સોનગઢ",
+    "scheduleNo": 48,
+    "startTime": "07:00 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "10:15 AM",
+    "kilometers": 83.08,
+    "route": "સોનગઢ સુરત",
+    "scheduleNo": 48,
+    "startTime": "08:00 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "03:15 PM",
+    "kilometers": 175.75,
+    "remarks": "સીસી સોનગઢ સ્ટેન્ડ",
+    "route": "સુરત નિઝર કોલેજ",
+    "scheduleNo": 48,
+    "startTime": "10:45 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "04:15 PM",
+    "kilometers": 18,
+    "route": "નિઝર કોલેજ કુકરમુન્ડા",
+    "scheduleNo": 48,
+    "startTime": "03:45 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "04:35 PM",
+    "kilometers": 6,
+    "route": "કુકરમુન્ડા મટાવલ",
+    "scheduleNo": 48,
+    "startTime": "04:25 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "04:55 PM",
+    "kilometers": 6,
+    "route": "મટાવલ કુકરમુન્ડા",
+    "scheduleNo": 48,
+    "startTime": "04:45 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "05:35 PM",
+    "kilometers": 18,
+    "route": "કુકરમુંન્ડા નિઝર કોલેજ",
+    "scheduleNo": 48,
+    "startTime": "05:05 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "08:05 PM",
+    "kilometers": 92.67,
+    "route": "નિઝર કોલેજ સોનગઢ",
+    "scheduleNo": 48,
+    "startTime": "05:45 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "08:15 PM",
+    "kilometers": 1.5,
+    "remarks": "એમ ટી",
+    "route": "સ્ટેન્ડ ડેપો",
+    "scheduleNo": 48,
+    "startTime": "08:01 PM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "05:05 AM",
+    "kilometers": 1.5,
+    "route": "ડેપો સ્ટેન્ડ",
+    "scheduleNo": 49,
+    "startTime": "05:45 AM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "06:45 AM",
+    "kilometers": 30.34,
+    "remarks": "વાયા ઉકાઇ",
+    "route": "સોનગઢ ખેરવાડા",
+    "scheduleNo": 49,
+    "startTime": "06:00 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "07:45 AM",
+    "kilometers": 30.34,
+    "remarks": "વાયા ઉકાઇ",
+    "route": "ખેરવાડા સોનગઢ",
+    "scheduleNo": 49,
+    "startTime": "07:00 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "10:45 AM",
+    "kilometers": 83.08,
+    "route": "સોનગઢ સુરત",
+    "scheduleNo": 49,
+    "startTime": "08:15 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "04:00 PM",
+    "kilometers": 174.93,
+    "remarks": "સીસી સોનગઢ સ્ટેન્ડ",
+    "route": "સુરત નિઝર",
+    "scheduleNo": 49,
+    "startTime": "11:03 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "05:03 PM",
+    "kilometers": 20.02,
+    "remarks": "વાયા, સરવાળા",
+    "route": "નિઝર વ્યાવલ",
+    "scheduleNo": 49,
+    "startTime": "05:00 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "06:15 PM",
+    "kilometers": 20.02,
+    "route": "વ્યાવલ નિઝર",
+    "scheduleNo": 49,
+    "startTime": "05:45 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "08:05 PM",
+    "kilometers": 91.85,
+    "route": "નિઝર સોનગઢ",
+    "scheduleNo": 49,
+    "startTime": "06:03 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "09:00 PM",
+    "kilometers": 1.5,
+    "remarks": "એમ ટી",
+    "route": "સ્ટેન્ડ ડેપો",
+    "scheduleNo": 49,
+    "startTime": "08:55 PM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "05:55 AM",
+    "kilometers": 1.5,
+    "route": "ડેપો સ્ટેન્ડ",
+    "scheduleNo": 50,
+    "startTime": "05:05 AM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "07:25 AM",
+    "kilometers": 43.94,
+    "remarks": "વાયા ઉકાઇ",
+    "route": "સોનગઢ બોરદા",
+    "scheduleNo": 50,
+    "startTime": "06:05 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "09:00 AM",
+    "kilometers": 43.94,
+    "route": "બોરદા સોનગઢ",
+    "scheduleNo": 50,
+    "startTime": "07:04 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "10:05 AM",
+    "kilometers": 61.07,
+    "route": "સોનગઢ ઓટા",
+    "scheduleNo": 50,
+    "startTime": "09:02 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "12:04 PM",
+    "kilometers": 61.07,
+    "remarks": "સીસી સોનગઢ સ્ટેન્ડ",
+    "route": "ઓટા સોનગઢ",
+    "scheduleNo": 50,
+    "startTime": "11:01 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "02:45 PM",
+    "kilometers": 61.07,
+    "route": "સોનગઢ ઓટા",
+    "scheduleNo": 50,
+    "startTime": "01:15 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "04:35 PM",
+    "kilometers": 61.07,
+    "route": "ઓટા સોનગઢ",
+    "scheduleNo": 50,
+    "startTime": "03:05 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "06:02 PM",
+    "kilometers": 43.94,
+    "remarks": "વાયા ઉકાઇ",
+    "route": "સોનગઢ બોરદા",
+    "scheduleNo": 50,
+    "startTime": "05:00 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "08:00 PM",
+    "kilometers": 43.94,
+    "remarks": "વાયા ઉકાઇ",
+    "route": "બોરદા સોનગઢ",
+    "scheduleNo": 50,
+    "startTime": "06:04 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "08:01 PM",
+    "kilometers": 1.5,
+    "remarks": "એમ ટી",
+    "route": "સ્ટેન્ડ ડેપો",
+    "scheduleNo": 50,
+    "startTime": "08:05 PM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "05:04 AM",
+    "kilometers": 33.58,
+    "route": "ફુલઉમરાણ ઉચ્છલ",
+    "scheduleNo": 51,
+    "startTime": "04:05 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "06:05 AM",
+    "kilometers": 7.72,
+    "route": "ઉચ્છલ ભીતખુર્દ",
+    "scheduleNo": 51,
+    "startTime": "05:05 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "06:03 AM",
+    "kilometers": 7.72,
+    "route": "ભીતખુર્દ ઉચ્છલ",
+    "scheduleNo": 51,
+    "startTime": "06:15 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "07:35 AM",
+    "kilometers": 33.58,
+    "route": "ઉચ્છલ ફુલઉમરાણ",
+    "scheduleNo": 51,
+    "startTime": "06:04 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "08:04 AM",
+    "kilometers": 33.58,
+    "route": "ફુલઉમરાણ ઉચ્છલ",
+    "scheduleNo": 51,
+    "startTime": "07:45 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "09:05 AM",
+    "kilometers": 14.01,
+    "route": "ઉચ્છલ છાપટી કમલાપુર",
+    "scheduleNo": 51,
+    "startTime": "08:05 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "09:03 AM",
+    "kilometers": 14.01,
+    "remarks": "વાયા ખાબદા",
+    "route": "કમલાપુર છાપટી ઉચ્છલ",
+    "scheduleNo": 51,
+    "startTime": "09:15 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "09:55 AM",
+    "kilometers": 7.72,
+    "route": "ઉચ્છલ ભીતખુર્દ",
+    "scheduleNo": 51,
+    "startTime": "09:04 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "10:02 AM",
+    "kilometers": 7.72,
+    "route": "ભીતખુર્દ ઉચ્છલ",
+    "scheduleNo": 51,
+    "startTime": "10:05 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "11:05 AM",
+    "kilometers": 24.02,
+    "route": "ઉચ્છલ સોનગઢ",
+    "scheduleNo": 51,
+    "startTime": "10:03 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "11:15 AM",
+    "kilometers": 1.5,
+    "remarks": "સીસી એમ ટી",
+    "route": "સ્ટેન્ડ ડેપો",
+    "scheduleNo": 51,
+    "startTime": "11:01 AM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "12:35 PM",
+    "kilometers": 1.5,
+    "route": "ડેપો સ્ટેન્ડ",
+    "scheduleNo": 51,
+    "startTime": "12:03 PM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "02:15 PM",
+    "kilometers": 57.6,
+    "route": "સોનગઢ ફુલઉમરાણ",
+    "scheduleNo": 51,
+    "startTime": "12:45 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "03:15 PM",
+    "kilometers": 33.58,
+    "route": "ફુલઉમરાણ ઉચ્છલ",
+    "scheduleNo": 51,
+    "startTime": "02:03 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "04:00 PM",
+    "kilometers": 14.28,
+    "remarks": "વાયા ખાબદા",
+    "route": "ઉચ્છલ છાપટી",
+    "scheduleNo": 51,
+    "startTime": "03:35 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "04:35 PM",
+    "kilometers": 14.28,
+    "route": "છાપટી ઉચ્છલ",
+    "scheduleNo": 51,
+    "startTime": "04:01 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "05:00 PM",
+    "kilometers": 7.72,
+    "route": "ઉચ્છલ ભીતખુર્દ",
+    "scheduleNo": 51,
+    "startTime": "04:45 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "05:02 PM",
+    "kilometers": 7.72,
+    "route": "ભીતખુર્દ ઉચ્છલ",
+    "scheduleNo": 51,
+    "startTime": "05:01 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "05:05 PM",
+    "kilometers": 14.28,
+    "remarks": "વાયા ખાબદા",
+    "route": "ઉચ્છલ છાપટી",
+    "scheduleNo": 51,
+    "startTime": "05:03 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "06:02 PM",
+    "kilometers": 14.28,
+    "route": "છાપટી ઉચ્છલ",
+    "scheduleNo": 51,
+    "startTime": "06:00 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "07:02 PM",
+    "kilometers": 33.58,
+    "remarks": "નાઇટ આઉટ",
+    "route": "ઉચ્છલ ફુલઉમરાણ",
+    "scheduleNo": 51,
+    "startTime": "06:03 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "06:02 AM",
+    "kilometers": 43.94,
+    "route": "બોરદા સોનગઢ",
+    "scheduleNo": 52,
+    "startTime": "05:00 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "06:55 AM",
+    "kilometers": 21.02,
+    "route": "સોનગઢ ટાપરવાડા",
+    "scheduleNo": 52,
+    "startTime": "06:25 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "07:35 AM",
+    "kilometers": 21.02,
+    "route": "ટાપરવાડા સોનગઢ",
+    "scheduleNo": 52,
+    "startTime": "07:05 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "08:00 AM",
+    "kilometers": 7.45,
+    "route": "સોનગઢ ગાયસવાર",
+    "scheduleNo": 52,
+    "startTime": "07:45 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "08:25 AM",
+    "kilometers": 7.45,
+    "route": "ગાયસવાર સોનગઢ",
+    "scheduleNo": 52,
+    "startTime": "08:01 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "09:55 AM",
+    "kilometers": 43.94,
+    "route": "સોનગઢ બોરદા",
+    "scheduleNo": 52,
+    "startTime": "08:35 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "11:25 AM",
+    "kilometers": 43.94,
+    "route": "બોરદા સોનગઢ",
+    "scheduleNo": 52,
+    "startTime": "10:05 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "11:35 AM",
+    "kilometers": 1.5,
+    "remarks": "સીસી એમ ટી",
+    "route": "સ્ટેન્ડ ડેપો",
+    "scheduleNo": 52,
+    "startTime": "11:03 AM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "12:05 PM",
+    "kilometers": 1.5,
+    "route": "ડેપો સ્ટેન્ડ",
+    "scheduleNo": 52,
+    "startTime": "12:45 PM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "02:02 PM",
+    "kilometers": 43.94,
+    "route": "સોનગઢ બોરદા",
+    "scheduleNo": 52,
+    "startTime": "01:00 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "03:05 PM",
+    "kilometers": 43.94,
+    "route": "બોરદા સોનગઢ",
+    "scheduleNo": 52,
+    "startTime": "02:03 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "04:45 PM",
+    "kilometers": 29.6,
+    "route": "સોનગઢ ઘુટવેલ",
+    "scheduleNo": 52,
+    "startTime": "04:05 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "05:04 PM",
+    "kilometers": 29.6,
+    "route": "ઘુટવેલ સોનગઢ",
+    "scheduleNo": 52,
+    "startTime": "04:55 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "06:00 PM",
+    "kilometers": 7.45,
+    "route": "સોનગઢ ગાયસવાર",
+    "scheduleNo": 52,
+    "startTime": "05:05 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "06:02 PM",
+    "kilometers": 7.45,
+    "route": "ગાયસવાર સોનગઢ",
+    "scheduleNo": 52,
+    "startTime": "06:01 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "07:05 PM",
+    "kilometers": 43.94,
+    "remarks": "ના આ",
+    "route": "સોનગઢ બોરદા",
+    "scheduleNo": 52,
+    "startTime": "06:03 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "06:25 AM",
+    "kilometers": 63.76,
+    "route": "સુરત વ્યારા",
+    "scheduleNo": 53,
+    "startTime": "04:45 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "07:45 AM",
+    "kilometers": 46.38,
+    "remarks": "વાયા સરેયા બંધરપાડા ટેમ્કા",
+    "route": "વ્યારા સોનગઢ",
+    "scheduleNo": 53,
+    "startTime": "06:35 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "08:25 AM",
+    "kilometers": 18.88,
+    "route": "સોનગઢ બોરીસાવર",
+    "scheduleNo": 53,
+    "startTime": "07:55 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "09:01 AM",
+    "kilometers": 18.88,
+    "route": "બોરીસાવર સોનગઢ",
+    "scheduleNo": 53,
+    "startTime": "08:35 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "09:55 AM",
+    "kilometers": 20.36,
+    "route": "સોનગઢ ચકવાણ",
+    "scheduleNo": 53,
+    "startTime": "09:02 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "10:04 AM",
+    "kilometers": 20.36,
+    "route": "ચકવાણ સોનગઢ",
+    "scheduleNo": 53,
+    "startTime": "10:05 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "10:05 AM",
+    "kilometers": 1.5,
+    "remarks": "સીસી એમ ટી",
+    "route": "સ્ટેન્ડ ડેપો",
+    "scheduleNo": 53,
+    "startTime": "10:45 AM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "01:02 PM",
+    "kilometers": 1.5,
+    "route": "ડેપો સ્ટેન્ડ",
+    "scheduleNo": 53,
+    "startTime": "01:15 PM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "02:01 PM",
+    "kilometers": 24,
+    "route": "સોનગઢ ઘોળીરુવાળી",
+    "scheduleNo": 53,
+    "startTime": "01:03 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "03:05 PM",
+    "kilometers": 24,
+    "route": "ઘોળીરુવાળી સોનગઢ",
+    "scheduleNo": 53,
+    "startTime": "02:25 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "03:05 PM",
+    "kilometers": 19.32,
+    "route": "સોનગઢ વ્યારા",
+    "scheduleNo": 53,
+    "startTime": "03:02 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "04:04 PM",
+    "kilometers": 19.32,
+    "route": "વ્યારા સોનગઢ",
+    "scheduleNo": 53,
+    "startTime": "04:01 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "06:15 PM",
+    "kilometers": 49.6,
+    "remarks": "વાયા પાંચપીપલા",
+    "route": "સોનગઢ પાંચપીપલા વ્યારા",
+    "scheduleNo": 53,
+    "startTime": "05:00 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "08:05 PM",
+    "kilometers": 63.76,
+    "remarks": "ના આ",
+    "route": "વ્યારા સુરત",
+    "scheduleNo": 53,
+    "startTime": "06:03 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "04:55 AM",
+    "kilometers": 1.5,
+    "route": "ડેપો સ્ટેન્ડ",
+    "scheduleNo": 54,
+    "startTime": "04:05 AM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "05:35 AM",
+    "kilometers": 19.32,
+    "route": "સોનગઢ વ્યારા",
+    "scheduleNo": 54,
+    "startTime": "05:05 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "06:04 AM",
+    "kilometers": 33.09,
+    "route": "વ્યારા ઉનાઇ",
+    "scheduleNo": 54,
+    "startTime": "05:05 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "07:45 AM",
+    "kilometers": 33.09,
+    "route": "ઉનાઇ વ્યારા",
+    "scheduleNo": 54,
+    "startTime": "06:55 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "08:05 AM",
+    "kilometers": 33.09,
+    "route": "વ્યારા ઉનાઇ",
+    "scheduleNo": 54,
+    "startTime": "08:00 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "10:00 AM",
+    "kilometers": 33.09,
+    "route": "ઉનાઇ વ્યારા",
+    "scheduleNo": 54,
+    "startTime": "09:01 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "11:01 AM",
+    "kilometers": 33.09,
+    "route": "વ્યારા ઉનાઇ",
+    "scheduleNo": 54,
+    "startTime": "10:02 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "12:15 PM",
+    "kilometers": 33.09,
+    "remarks": "સીસી",
+    "route": "ઉનાઇ વ્યારા",
+    "scheduleNo": 54,
+    "startTime": "11:25 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "01:02 PM",
+    "kilometers": 33.09,
+    "route": "વ્યારા ઉનાઇ",
+    "scheduleNo": 54,
+    "startTime": "12:03 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "02:25 PM",
+    "kilometers": 33.09,
+    "route": "ઉનાઇ વ્યારા",
+    "scheduleNo": 54,
+    "startTime": "01:35 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "03:03 PM",
+    "kilometers": 33.09,
+    "route": "વ્યારા ઉનાઇ",
+    "scheduleNo": 54,
+    "startTime": "02:04 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "04:35 PM",
+    "kilometers": 33.09,
+    "route": "ઉનાઇ વ્યારા",
+    "scheduleNo": 54,
+    "startTime": "03:45 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "05:05 PM",
+    "kilometers": 33.09,
+    "route": "વ્યારા ઉનાઇ",
+    "scheduleNo": 54,
+    "startTime": "05:00 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "07:05 PM",
+    "kilometers": 33.09,
+    "route": "ઉનાઇ વ્યારા",
+    "scheduleNo": 54,
+    "startTime": "06:15 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "07:05 PM",
+    "kilometers": 19.32,
+    "route": "વ્યારા સોનગઢ",
+    "scheduleNo": 54,
+    "startTime": "07:02 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "08:00 PM",
+    "kilometers": 1.5,
+    "remarks": "એમ ટી",
+    "route": "સ્ટેન્ડ ડેપો",
+    "scheduleNo": 54,
+    "startTime": "07:55 PM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "05:55 AM",
+    "kilometers": 1.5,
+    "route": "ડેપો સ્ટેન્ડ",
+    "scheduleNo": 55,
+    "startTime": "05:05 AM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "06:35 AM",
+    "kilometers": 19.32,
+    "route": "સોનગઢ વ્યારા",
+    "scheduleNo": 55,
+    "startTime": "06:05 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "07:04 AM",
+    "kilometers": 33.09,
+    "route": "વ્યારા ઉનાઇ",
+    "scheduleNo": 55,
+    "startTime": "06:05 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "08:05 AM",
+    "kilometers": 33.09,
+    "route": "ઉનાઇ વ્યારા",
+    "scheduleNo": 55,
+    "startTime": "08:00 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "09:55 AM",
+    "kilometers": 33.09,
+    "route": "વ્યારા ઉનાઇ",
+    "scheduleNo": 55,
+    "startTime": "09:05 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "11:00 AM",
+    "kilometers": 33.09,
+    "route": "ઉનાઇ વ્યારા",
+    "scheduleNo": 55,
+    "startTime": "10:01 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "12:01 PM",
+    "kilometers": 33.09,
+    "route": "વ્યારા ઉનાઇ",
+    "scheduleNo": 55,
+    "startTime": "11:02 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "01:02 PM",
+    "kilometers": 33.09,
+    "remarks": "સીસી",
+    "route": "ઉનાઇ વ્યારા",
+    "scheduleNo": 55,
+    "startTime": "12:03 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "02:25 PM",
+    "kilometers": 33.09,
+    "route": "વ્યારા ઉનાઇ",
+    "scheduleNo": 55,
+    "startTime": "01:35 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "03:03 PM",
+    "kilometers": 33.09,
+    "route": "ઉનાઇ વ્યારા",
+    "scheduleNo": 55,
+    "startTime": "02:04 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "04:35 PM",
+    "kilometers": 33.09,
+    "route": "વ્યારા ઉનાઇ",
+    "scheduleNo": 55,
+    "startTime": "03:45 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "05:04 PM",
+    "kilometers": 33.09,
+    "route": "ઉનાઇ વ્યારા",
+    "scheduleNo": 55,
+    "startTime": "04:05 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "06:05 PM",
+    "kilometers": 33.09,
+    "route": "વ્યારા ઉનાઇ",
+    "scheduleNo": 55,
+    "startTime": "06:00 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "07:55 PM",
+    "kilometers": 33.09,
+    "route": "ઉનાઇ વ્યારા",
+    "scheduleNo": 55,
+    "startTime": "07:05 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "08:04 PM",
+    "kilometers": 19.32,
+    "route": "વ્યારા સોનગઢ",
+    "scheduleNo": 55,
+    "startTime": "08:01 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "08:05 PM",
+    "kilometers": 1.5,
+    "remarks": "એમ ટી",
+    "route": "સ્ટેન્ડ ડેપો",
+    "scheduleNo": 55,
+    "startTime": "08:45 PM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "07:05 AM",
+    "kilometers": 61.07,
+    "route": "ઓટા સોનગઢ",
+    "scheduleNo": 56,
+    "startTime": "05:03 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "08:55 AM",
+    "kilometers": 61.07,
+    "route": "સોનગઢ ઓટા",
+    "scheduleNo": 56,
+    "startTime": "07:02 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "10:45 AM",
+    "kilometers": 61.07,
+    "route": "ઓટા સોનગઢ",
+    "scheduleNo": 56,
+    "startTime": "09:01 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "10:55 AM",
+    "kilometers": 1.5,
+    "remarks": "એમ ટી સીસી",
+    "route": "સ્ટેન્ડ ડેપો",
+    "scheduleNo": 56,
+    "startTime": "10:05 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "12:02 PM",
+    "kilometers": 1.5,
+    "remarks": "એમ ટી સીસી",
+    "route": "ડેપો સ્ટેન્ડ",
+    "scheduleNo": 56,
+    "startTime": "12:15 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "02:05 PM",
+    "kilometers": 61.07,
+    "route": "સોનગઢ ઓટા",
+    "scheduleNo": 56,
+    "startTime": "12:03 PM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "04:00 PM",
+    "kilometers": 61.07,
+    "route": "ઓટા સોનગઢ",
+    "scheduleNo": 56,
+    "startTime": "02:25 PM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "04:05 PM",
+    "kilometers": 16.88,
+    "route": "સોનગઢ વેકુર",
+    "scheduleNo": 56,
+    "startTime": "04:02 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "05:03 PM",
+    "kilometers": 16.88,
+    "route": "વેકુર સોનગઢ",
+    "scheduleNo": 56,
+    "startTime": "05:00 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "07:15 PM",
+    "kilometers": 61.07,
+    "remarks": "ના આ",
+    "route": "સોનગઢ ઓટા",
+    "scheduleNo": 56,
+    "startTime": "05:04 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "06:01 AM",
+    "kilometers": 45.03,
+    "route": "કરંજખેડ વ્યારા",
+    "scheduleNo": 57,
+    "startTime": "05:00 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "07:03 AM",
+    "kilometers": 45.03,
+    "route": "વ્યારા કરંજખેડ",
+    "scheduleNo": 57,
+    "startTime": "06:02 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "08:02 AM",
+    "kilometers": 27.89,
+    "route": "કરંજખેડ ઉનાઇ",
+    "scheduleNo": 57,
+    "startTime": "07:04 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "09:01 AM",
+    "kilometers": 27.89,
+    "route": "ઉનાઇ કરંજખેડ",
+    "scheduleNo": 57,
+    "startTime": "08:03 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "10:03 AM",
+    "kilometers": 45.03,
+    "route": "કરંજખેડ વ્યારા",
+    "scheduleNo": 57,
+    "startTime": "09:02 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "11:02 AM",
+    "kilometers": 19.01,
+    "route": "વ્યારા સોનગઢ",
+    "scheduleNo": 57,
+    "startTime": "10:05 AM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "11:03 AM",
+    "kilometers": 1.5,
+    "remarks": "એમ ટી સીસી",
+    "route": "સ્ટેન્ડ ડેપો",
+    "scheduleNo": 57,
+    "startTime": "11:25 AM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "11:04 AM",
+    "kilometers": 1.5,
+    "route": "ડેપો સ્ટેન્ડ",
+    "scheduleNo": 57,
+    "startTime": "11:35 AM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "03:00 PM",
+    "kilometers": 83.08,
+    "route": "સોનગઢ સુરત",
+    "scheduleNo": 57,
+    "startTime": "12:45 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "05:01 PM",
+    "kilometers": 63.76,
+    "route": "સુરત વ્યારા",
+    "scheduleNo": 57,
+    "startTime": "03:03 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "06:55 PM",
+    "kilometers": 45.03,
+    "remarks": "ના આ",
+    "route": "વ્યારા કરંજખેડ",
+    "scheduleNo": 57,
+    "startTime": "05:45 PM",
+    "type": "મીની"
+  },
+  {
+    "endTime": "07:01 AM",
+    "kilometers": 47.32,
+    "route": "સેલંબા નિઝર કોલેજ",
+    "scheduleNo": 58,
+    "startTime": "05:45 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "08:04 AM",
+    "kilometers": 30.6,
+    "route": "નિઝર કોલેજ મોરંબા",
+    "scheduleNo": 58,
+    "startTime": "07:05 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "12:03 PM",
+    "kilometers": 122.45,
+    "route": "મોરંબા નિઝર કોલેજ સોનગઢ",
+    "scheduleNo": 58,
+    "startTime": "08:05 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "12:04 PM",
+    "kilometers": 1.5,
+    "remarks": "એમ ટી સીસી",
+    "route": "સ્ટેન્ડ ડેપો",
+    "scheduleNo": 58,
+    "startTime": "12:35 PM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "01:25 PM",
+    "kilometers": 1.5,
+    "route": "ડેપો સ્ટેન્ડ",
+    "scheduleNo": 58,
+    "startTime": "01:02 PM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "02:00 PM",
+    "kilometers": 21.06,
+    "route": "સોનગઢ ટાપરવાડા",
+    "scheduleNo": 58,
+    "startTime": "01:03 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "02:45 PM",
+    "kilometers": 21.06,
+    "route": "ટાપરવાડા સોનગઢ",
+    "scheduleNo": 58,
+    "startTime": "02:15 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "06:03 PM",
+    "kilometers": 139.17,
+    "remarks": "વાયા નિઝર કુકરમુન્ડા નાઇટ આઉટ",
+    "route": "સોનગઢ સેલંબા",
+    "scheduleNo": 58,
+    "startTime": "03:00 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "07:15 AM",
+    "kilometers": 39.58,
+    "route": "ફુલઉમરાણ ઉચ્છલ",
+    "scheduleNo": 59,
+    "startTime": "06:15 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "09:01 AM",
+    "kilometers": 52.08,
+    "route": "ઉચ્છલ વ્યારા માયપુર",
+    "scheduleNo": 59,
+    "startTime": "07:05 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "10:05 AM",
+    "kilometers": 52.08,
+    "route": "માયપુર વ્યારા ઉચ્છલ",
+    "scheduleNo": 59,
+    "startTime": "09:03 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "11:55 AM",
+    "kilometers": 24.02,
+    "route": "ઉચ્છલ સોનગઢ",
+    "scheduleNo": 59,
+    "startTime": "11:15 AM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "12:05 PM",
+    "kilometers": 1.5,
+    "remarks": "એમ ટી સીસી",
+    "route": "સ્ટેન્ડ ડેપો",
+    "scheduleNo": 59,
+    "startTime": "12:00 PM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "01:35 PM",
+    "kilometers": 1.5,
+    "route": "ડેપો સ્ટેન્ડ",
+    "scheduleNo": 59,
+    "startTime": "01:03 PM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "02:03 PM",
+    "kilometers": 29.09,
+    "remarks": "વાયા બંધરપાડા",
+    "route": "સોનગઢ વ્યારા",
+    "scheduleNo": 59,
+    "startTime": "01:45 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "05:00 PM",
+    "kilometers": 77.32,
+    "route": "વ્યારા ફુલઉમરાણ",
+    "scheduleNo": 59,
+    "startTime": "03:00 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "07:00 PM",
+    "kilometers": 39.58,
+    "route": "ફુલઉમરાણ ઉચ્છલ",
+    "scheduleNo": 59,
+    "startTime": "06:00 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "08:03 PM",
+    "kilometers": 39.58,
+    "remarks": "ના આ ટ્રેન કનેક્શન",
+    "route": "ઉચ્છલ ફુલઉમરાણ",
+    "scheduleNo": 59,
+    "startTime": "07:04 PM",
+    "type": "લોકલ"
+  },
+  {
+    "endTime": "01:15 PM",
+    "kilometers": 265.8,
+    "remarks": "કિમી માં સુધારો ઓછા થયેલ છે",
+    "route": {
+      "from": "સુરત",
+      "to": "નહેરુનગર"
+    },
+    "scheduleNo": 1,
+    "startTime": "08:00 AM",
+    "type": "VOLVO SEATER"
+  },
+  {
+    "endTime": "03:00 PM",
+    "kilometers": 265.8,
+    "remarks": "કિમી માં સુધારો ઓછા થયેલ છે",
+    "route": {
+      "from": "સુરત",
+      "to": "નહેરુનગર"
+    },
+    "scheduleNo": 2,
+    "startTime": "09:03 AM",
+    "type": "VOLVO SEATER"
+  },
+  {
+    "endTime": "03:45 PM",
+    "kilometers": 265.8,
+    "remarks": "કિમી માં સુધારો ઓછા થયેલ છે",
+    "route": {
+      "from": "સુરત",
+      "to": "નહેરુનગર"
+    },
+    "scheduleNo": 3,
+    "startTime": "10:03 AM",
+    "type": "VOLVO SEATER"
+  },
+  {
+    "endTime": "11:15 PM",
+    "kilometers": 265.8,
+    "remarks": "કિમી માં સુધારો ઓછા થયેલ છે",
+    "route": {
+      "from": "સુરત",
+      "to": "નહેરુનગર"
+    },
+    "scheduleNo": 4,
+    "startTime": "06:00 PM",
+    "type": "VOLVO SEATER"
+  },
+  {
+    "endTime": "07:00 PM",
+    "kilometers": 290.18,
+    "remarks": "કિમી માં સુધારો ઓછા થયેલ છે",
+    "route": {
+      "from": "સુરત",
+      "to": "ગાંધીનગર"
+    },
+    "scheduleNo": 5,
+    "startTime": "01:00 PM",
+    "type": "VOLVO SEATER"
+  },
+  {
+    "endTime": "11:00 PM",
+    "kilometers": 290.18,
+    "remarks": "કિમી માં સુધારો ઓછા થયેલ છે",
+    "route": {
+      "from": "સુરત",
+      "to": "ગાંધીનગર"
+    },
+    "scheduleNo": 6,
+    "startTime": "05:00 PM",
+    "type": "VOLVO SEATER"
+  },
+  {
+    "endTime": "05:00 AM",
+    "kilometers": 428.3,
+    "remarks": "કિમી માં સુધારો ઓછા થયેલ છે",
+    "route": {
+      "from": "સુરત",
+      "to": "અંબાજી"
+    },
+    "scheduleNo": 7,
+    "startTime": "07:03 PM",
+    "type": "AC SLEEPER"
+  },
+  {
+    "endTime": "11:55 PM",
+    "kilometers": 428.3,
+    "remarks": "કિમી માં સુધારો ઓછા થયેલ છે",
+    "route": {
+      "from": "અંબાજી",
+      "to": "સુરત"
+    },
+    "scheduleNo": 8,
+    "startTime": "03:03 PM"
+  },
+  {
+    "endTime": "01:45 AM",
+    "kilometers": 463.31,
+    "remarks": "કિમી માં સુધારો ઓછા થયેલ છે",
+    "route": {
+      "from": "સુરત",
+      "to": "મોરબી"
+    },
+    "scheduleNo": 9,
+    "startTime": "04:00 PM",
+    "type": "AC SLEEPER"
+  },
+  {
+    "endTime": "05:45 AM",
+    "kilometers": 463.31,
+    "remarks": "કિમી માં સુધારો ઓછા થયેલ છે",
+    "route": {
+      "from": "મોરબી",
+      "to": "સુરત"
+    },
+    "scheduleNo": 10,
+    "startTime": "08:03 PM"
+  },
+  {
+    "endTime": "03:15 AM",
+    "kilometers": 555.04,
+    "route": {
+      "from": "સુરત",
+      "to": "દિયુ"
+    },
+    "scheduleNo": 11,
+    "startTime": "04:03 PM"
+  },
+  {
+    "endTime": "06:02 AM",
+    "kilometers": 555.04,
+    "route": {
+      "from": "DIU",
+      "to": "સુરત"
+    },
+    "scheduleNo": 12,
+    "startTime": "06:03 PM"
+  },
+  {
+    "endTime": "02:02 AM",
+    "kilometers": 571.14,
+    "route": {
+      "from": "સુરત",
+      "to": "નાથદ્વારા"
+    },
+    "scheduleNo": 13,
+    "startTime": "03:00 PM"
+  },
+  {
+    "endTime": "07:02 AM",
+    "kilometers": 571.14,
+    "route": {
+      "from": "નાથદ્વારા",
+      "to": "સુરત"
+    },
+    "scheduleNo": 14,
+    "startTime": "08:00 PM"
+  },
+  {
+    "endTime": "03:45 AM",
+    "kilometers": 432.42,
+    "route": {
+      "from": "સુરત",
+      "to": "પાલિતાણા"
+    },
+    "scheduleNo": 15,
+    "startTime": "06:45 PM"
+  },
+  {
+    "endTime": "03:45 AM",
+    "kilometers": 432.42,
+    "route": {
+      "from": "પાલિતાણા",
+      "to": "સુરત"
+    },
+    "scheduleNo": 16,
+    "startTime": "06:45 PM"
+  }
+]

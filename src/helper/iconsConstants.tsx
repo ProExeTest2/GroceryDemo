@@ -1,0 +1,15 @@
+export const icons = {
+  cardimg: require('../../assets/icons/cardimg.png'),
+  cart: require('../../assets/icons/cart.png'),
+  menu: require('../../assets/icons/list.png'),
+  search: require('../../assets/icons/loupe.png'),
+  back: require('../../assets/icons/back.png'),
+  plus: require('../../assets/icons/add.png'),
+  minus: require('../../assets/icons/minus.png'),
+  yellowstar: require('../../assets/icons/yellowstar.png'),
+  star: require('../../assets/icons/star.png'),
+  check: require('../../assets/icons/check.png'),
+  twoarrow: require('../../assets/icons/two-arrow.png'),
+  addbus: require('../../assets/icons/addbus.png'),
+  bus: require('../../assets/icons/bus.png'),
+};

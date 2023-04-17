@@ -1,0 +1,95 @@
+[
+    {
+    "endTime": "03:00 PM",
+    "kilometers": 431.62,
+    "remarks": "વાયા ગોધરા લુનાવાડા",
+    "route": "મોડાસા સોનગઢ",
+    "scheduleNo": 13,
+    "startTime": "05:03 AM",
+    "type": "સુપર"
+  },
+  {
+    "endTime": "03:01 PM",
+    "kilometers": 1.5,
+    "remarks": "એમ ટી",
+    "route": "સ્ટેન્ડ ડેપો",
+    "scheduleNo": 13,
+    "startTime": "03:05 PM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "06:05 PM",
+    "kilometers": 1.5,
+    "route": "ડેપો સ્ટેન્ડ",
+    "scheduleNo": 14,
+    "startTime": "06:45 PM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "03:02 AM",
+    "kilometers": 379.72,
+    "remarks": "સીસી",
+    "route": "સોનગઢ ગાંધીનગર",
+    "scheduleNo": 14,
+    "startTime": "07:00 PM",
+    "type": "સુપર"
+  },
+  {
+    "endTime": "02:01 PM",
+    "kilometers": 379.72,
+    "route": "ગાંધીનગર સોનગઢ",
+    "scheduleNo": 14,
+    "startTime": "06:00 AM",
+    "type": "સુપર"
+  },
+  {
+    "endTime": "02:02 PM",
+    "kilometers": 1.5,
+    "remarks": "એમ ટી",
+    "route": "સ્ટેન્ડ ડેપો",
+    "scheduleNo": 14,
+    "startTime": "02:15 PM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "07:15 AM",
+    "kilometers": 1.5,
+    "route": "ડેપો સ્ટેન્ડ",
+    "scheduleNo": 15,
+    "startTime": "07:01 AM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "12:25 PM",
+    "kilometers": 225.05,
+    "route": "સોનગઢ વડોદરા",
+    "scheduleNo": 15,
+    "startTime": "07:02 AM",
+    "type": "સુપર"
+  },
+  {
+    "endTime": "06:45 PM",
+    "kilometers": 225.05,
+    "route": "વડોદરા સોનગઢ",
+    "scheduleNo": 15,
+    "startTime": "01:03 PM",
+    "type": "સુપર"
+  },
+  {
+    "endTime": "06:55 PM",
+    "kilometers": 1.5,
+    "remarks": "સી.સી.એમ.ટી.",
+    "route": "સ્ટેન્ડ ડેપો",
+    "scheduleNo": 15,
+    "startTime": "06:05 PM",
+    "type": "ડેપો"
+  },
+  {
+    "endTime": "10:55 AM",
+    "kilometers": 1.5,
+    "route": "ડેપો સ્ટેન્ડ",
+    "scheduleNo": 16,
+    "startTime": "10:05 AM",
+    "type": "ડેપો"
+  }
+]

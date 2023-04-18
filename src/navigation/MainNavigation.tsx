@@ -16,14 +16,14 @@ const MainNavigation = () => {
           headerShown: false,
           headerTitle: '',
         }}>
+        <Stack.Screen name="Dashboard" component={Dashboard} />
+        <Stack.Screen name="Demo" component={Demo} />
         <Stack.Screen
           name="BusRoute"
           component={BusRoute}
           //options={{headerShown: true}}
         />
-        <Stack.Screen name="Demo" component={Demo} />
 
-        <Stack.Screen name="Dashboard" component={Dashboard} />
         <Stack.Screen name="Products" component={Products} />
         <Stack.Screen name="Cart" component={Cart} />
       </Stack.Navigator>

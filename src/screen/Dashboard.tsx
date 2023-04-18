@@ -12,7 +12,6 @@ import MenuCard from '../components/MenuCard';
 import {hp, wp} from '../helper/responsive';
 import SearchBar from '../components/SearchBar';
 import Header from '../components/Header';
-import {icons} from '../helper/iconsConstants';
 
 const Dashboard = ({navigation}: any) => {
   return (

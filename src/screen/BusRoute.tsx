@@ -17,15 +17,12 @@ import Translator from 'react-native-translator';
 import customData from '../helper/Data/BusData.json';
 
 const BusRoute = () => {
-  // const customData = require('../helper/Data/BusData.json');
-
   const [BusData, setBusData] = useState([]);
   const [From, setFrom] = useState('');
   const [To, setTo] = useState('');
   const [ResultFrom, setResultFrom] = useState('');
   const [ResultTo, setResultTo] = useState('');
   const [isLoading, setIsLoading] = useState(true);
-  const [ErrorMsg, setErrorMsg] = useState('Please Wait data is loading...!');
 
   useEffect(() => {
     setIsLoading(true);

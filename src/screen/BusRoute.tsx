@@ -9,7 +9,7 @@ import {
   TextInput,
   View,
 } from 'react-native';
-import React, {useEffect, useState} from 'react';
+import React, {useEffect, useMemo, useState} from 'react';
 import {icons} from '../helper/iconsConstants';
 import BusCard from '../components/BusCard';
 import BusHeader from '../components/BusHeader';
@@ -25,31 +25,17 @@ const BusRoute = () => {
   const [isLoading, setIsLoading] = useState(true);
 
   useEffect(() => {
-    setIsLoading(true);
-    setBusData(customData);
+    //setBusData(allData);
+    allData;
   }, []);
 
-  useEffect(() => {
-    setIsLoading(true);
-    setTimeout(() => {
-      SearchFromToFunction(From, To);
-    }, 3000);
-  }, [From, To]);
+  //useEffect(() => {}, [From, To]);
 
-  const onPressArrow = () => {
+  const allData = useMemo(() => {
     setIsLoading(true);
-    let tmp = From;
-    setFrom(To);
-    setTo(tmp);
-    setTimeout(() => {
-      SearchFromToFunction(To, From);
-    }, 1000);
-  };
-
-  const SearchFromToFunction = (from: any, to: any) => {
-    let newData: never[];
-    if (from && to) {
-      console.log('in if part........ ', from, ',', to, ',', isLoading);
+    console.log('Inside UseMemo');
+    let newData = [];
+    if (From && To) {
       newData = customData?.filter(function (item: any) {
         let text = item.route.toString();
         const temparr = text.split(' ');
@@ -61,9 +47,7 @@ const BusRoute = () => {
           (temparr2?.includes(ResultFrom) && temparr2?.includes(ResultTo))
         );
       });
-      setBusData(newData);
-    } else if (from || to) {
-      console.log('in else if part........ ', from, to, isLoading);
+    } else if (From || To) {
       newData = customData?.filter(function (item: any) {
         let text = item.route.toString();
         let remark: string = item?.remarks?.toString();
@@ -76,14 +60,23 @@ const BusRoute = () => {
           temparr2?.includes(ResultTo)
         );
       });
-      setBusData(newData);
     } else {
-      console.log('in else part........ ', from, to, isLoading);
-      setBusData(customData);
+      newData = customData;
     }
     setIsLoading(false);
+    console.log('NEW DATA ', newData);
+    return newData;
+  }, [From, To]);
+
+  //console.log('All Data', allData);
+
+  const onPressArrow = () => {
+    setIsLoading(true);
+    let tmp = From;
+    setFrom(To);
+    setTo(tmp);
   };
-  //console.log('isloading ', isLoading);
+
   return (
     <>
       <BusHeader />
@@ -108,10 +101,7 @@ const BusRoute = () => {
             style={styles.textinput}
             placeholder="From"
             onChangeText={txt => {
-              setIsLoading(true);
               setFrom(txt);
-              SearchFromToFunction(txt, To);
-              console.log('is loading', isLoading);
             }}
           />
           <Pressable
@@ -142,11 +132,7 @@ const BusRoute = () => {
             style={styles.textinput}
             placeholder="To"
             onChangeText={txt => {
-              setIsLoading(true);
               setTo(txt);
-              SearchFromToFunction(From, txt);
-              console.log('is loading', isLoading);
-              //setIsLoading(false);
             }}
           />
         </View>
@@ -162,7 +148,7 @@ const BusRoute = () => {
           </View>
         ) : (
           <FlatList
-            data={BusData}
+            data={allData}
             showsVerticalScrollIndicator={false}
             renderItem={({item, index}: any) => {
               return (

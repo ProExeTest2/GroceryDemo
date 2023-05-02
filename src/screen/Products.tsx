@@ -29,7 +29,7 @@ const Products = ({navigation, route}: any) => {
   useEffect(() => {
     if (isFocused) {
       ProductData.find((item, index) => {
-        if (item.title == route?.params?.itemTitle) {
+        if (item.title === route?.params?.itemTitle) {
           let temp: any = ProductData[index].products;
           const temp2: any = temp?.map((currentValue: any, index: any) => {
             return {
